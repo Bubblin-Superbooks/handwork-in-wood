@@ -5,7 +5,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>The Manual Arts Press<br>Peoria, Illinois\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/dedication-200.png\" alt=\"dedication\"></p>"
+    "innerHtml": "<p>The Manual Arts Press<br>Peoria, Illinois</p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/dedication-200.png"
   },
   {
     "tag": "hr",
@@ -344,16 +348,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/001-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 1. Making a Valuation Survey."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/002-290.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 2. \"Blazes\" on Trees."
   },
   {
     "tag": "p",
@@ -373,7 +369,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 3. Winter Logging Camp. Itasco County, Minnesota."
+    "innerHtml": "Itasco County, Minnesota."
   },
   {
     "tag": "p",
@@ -389,10 +385,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 4. Tools used in Logging."
-  },
-  {
-    "tag": "p",
     "innerHtml": "All these are operations preliminary to the felling of trees. The tools commonly used in logging are shown in Fig. 4. When everything is ready for felling, the \"fitter\" goes ahead <em>marking</em> each tree to be felled and the direction in which it is to fall by cutting a notch on that side. Then come the sawyers in pairs, Fig. 5. First they chop a deep gash on the side of the tree toward which it is to fall, and then from the opposite side begin cutting with a long, Tuttle-tooth, crosscut-saw. The saw is a long, flexible ribbon of steel, with handles so affixed to each end that they can be removed easily. The cut is made on the pulling stroke, and hence the kerf can be very narrow. As soon as the saw is well within the trunk, the sawyers drive iron wedges into the kerf behind it, partly to keep the weight of the trunk from binding the saw, and partly to direct its fall. Then the saw is pulled back and forth, and the wedges driven in farther and farther, until every stroke of the maul that drives them sends a shiver thru the whole tree. Just as the tree is ready to go over, the saw handle at one end is unhooked and the saw pulled out at the other side. \"Timber!,\" the men cry out as a warning to any working near by, for the tree has begun to lean slightly. Then with a hastening rush the top whistles thru the air, and tears thru the branches of other trees, and the trunk with a tremendous crash strikes the ground. Even hardened loggers can hardly keep from shouting, so impressive is the sight of a falling giant tree."
   },
   {
@@ -401,15 +393,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 5. Felling Red Spruce with a Saw.<br>Adirondack Mountains, New York."
+    "innerHtml": "Adirondack Mountains, New York."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/006-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 6. Sawing Logs into Lengths."
   },
   {
     "tag": "p",
@@ -425,7 +413,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 7. Trimming off Branches of Spruce.<br>Adirondack Mountains, New York."
+    "innerHtml": "Adirondack Mountains, New York."
   },
   {
     "tag": "img",
@@ -433,7 +421,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 8. Hauling Spruce Logs to the Skidway.<br>Adirondack Mountains, New York."
+    "innerHtml": "Adirondack Mountains, New York."
   },
   {
     "tag": "p",
@@ -448,24 +436,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/009-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 9. \"Scaling\" Logs on the Skids."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/010-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 10. Making an Ice Road by Flooding."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/011-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 11. Decking Logs on Skidway."
   },
   {
     "tag": "p",
@@ -476,16 +452,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/012-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 12. Loading a Sled from a Skidway."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/013-543.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 13. A Load of Logs. Flathead County, Montana."
   },
   {
     "tag": "p",
@@ -501,10 +469,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 14. Banking Grounds."
-  },
-  {
-    "tag": "p",
     "innerHtml": "With the coming of the spring thaw, the river bed is filled with a freshet of water which seizes and carries the logs down stream. Many on the banks, however, have to be started on their way, and this is called \"breaking out the roll ways.\" They often start on their water journey with a great crash."
   },
   {
@@ -512,16 +476,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/015-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 15. The Sleigh Haul."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/016-595.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 16. Sacking the Rear."
   },
   {
     "tag": "p",
@@ -533,23 +489,23 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 17. Log Driving on the Ausable River."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The climax of hardship and courage is reached when a \"<em>jam</em>\" is formed, Fig. 18. Sometimes one or two logs are caught in such a way as to be locked or jammed and then soon other logs begin to accumulate behind them, till the whole river is full of a seemingly inextricable mass. Sometimes these jams can be loosened by being pulled apart, one log at a time. A hundred men can pull out an amazing number of logs in a day. The problem always is to set free or cut out certain \"key\" logs, which lock the whole mass. Following is a description by Stewart Edward White of the breaking of such a jam:"
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>The crew were working desperately. Down on the heap somewhere, two logs were crossed in such a manner as to lock the whole. They sought those logs.\nThirty feet above the bed of the river six men clamped their peaveys into the soft pine; jerking, pulling, lifting, sliding the great logs from their places. Thirty feet below, under the threatening face, six other men coolly picked out and set adrift one by one, the timbers not inextricably imbedded. From time to time the mass creaked, settled, perhaps even moved a foot or two; but always the practised rivermen, after a glance, bent more eagerly to their work. \\ \\ \\ Suddenly the six men below the jam scattered. \\ \\ \\ holding their peaveys across their bodies, they jumped lightly from one floating log to another in the zig-zag to shore. \\ \\ <br><img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/018-600.png\" alt=\"Fig. 18. Log Jam. Adirondack Mountains, New York.\"> </p>"
+    "innerHtml": "<p>The crew were working desperately. Down on the heap somewhere, two logs were crossed in such a manner as to lock the whole. They sought those logs.\nThirty feet above the bed of the river six men clamped their peaveys into the soft pine; jerking, pulling, lifting, sliding the great logs from their places. Thirty feet below, under the threatening face, six other men coolly picked out and set adrift one by one, the timbers not inextricably imbedded. From time to time the mass creaked, settled, perhaps even moved a foot or two; but always the practised rivermen, after a glance, bent more eagerly to their work.Suddenly the six men below the jam scattered.holding their peaveys across their bodies, they jumped lightly from one floating log to another in the zig-zag to shore.</p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/018-600.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 18. Log Jam. Adirondack Mountains, New York."
+    "innerHtml": "Adirondack Mountains, New York."
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>In the meantime a barely perceptible motion was communicating itself from one particle to another thru the center of the jam. \\ \\ \\ The crew redoubled its exertion, clamping its peaveys here and there, apparently at random, but in reality with the most definite of purposes. A sharp crack exploded immediately underneath. There could no longer exist any doubt as to the motion, altho it was as yet sluggish, glacial. Then in silence a log shifted—in silence and slowly—but with irresistible force \\ \\ \\ other logs in all directions up-ended. \\ \\ <br>Then all at once down by the face something crashed, the entire stream became alive. It hissed and roared, it shrieked, groaned, and grumbled. At first slowly, then more rapidly, the very fore-front of the center melted inward and forward and downward, until it caught the fierce rush of the freshet and shot out from under the jam. Far up-stream, bristling and formidable, the tons of logs, grinding savagely together, swept forward. \\ \\ <br>Then in a manner wonderful to behold, thru the smother of foam and spray, thru the crash and yell of timbers, protesting the flood's hurrying, thru the leap of destruction, the drivers zigzagged calmly and surely to the shore.</p>"
+    "innerHtml": "<p>In the meantime a barely perceptible motion was communicating itself from one particle to another thru the center of the jam.The crew redoubled its exertion, clamping its peaveys here and there, apparently at random, but in reality with the most definite of purposes. A sharp crack exploded immediately underneath. There could no longer exist any doubt as to the motion, altho it was as yet sluggish, glacial. Then in silence a log shifted—in silence and slowly—but with irresistible forceother logs in all directions up-ended.\nThen all at once down by the face something crashed, the entire stream became alive. It hissed and roared, it shrieked, groaned, and grumbled. At first slowly, then more rapidly, the very fore-front of the center melted inward and forward and downward, until it caught the fierce rush of the freshet and shot out from under the jam. Far up-stream, bristling and formidable, the tons of logs, grinding savagely together, swept forward.\nThen in a manner wonderful to behold, thru the smother of foam and spray, thru the crash and yell of timbers, protesting the flood's hurrying, thru the leap of destruction, the drivers zigzagged calmly and surely to the shore.</p>"
   },
   {
     "tag": "p",
@@ -560,16 +516,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/020-576.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 20. Splash-Dam."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/021-592.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 21. Logs in Boom. Glens Falls, New York."
+    "innerHtml": "Glens Falls, New York."
   },
   {
     "tag": "p",
@@ -578,10 +530,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/022-535.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 22. A Sorting Jack."
   },
   {
     "tag": "p",
@@ -609,7 +557,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 23. Six Mile Flume. Adirondack Mountains, New York."
+    "innerHtml": "Adirondack Mountains, New York."
   },
   {
     "tag": "p",
@@ -621,7 +569,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 24. Hauling Logs by Mules. Oscilla, Georgia."
+    "innerHtml": "Oscilla, Georgia."
   },
   {
     "tag": "p",
@@ -632,16 +580,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/025-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 25. A Twenty-Five Foot Saw used for Crosscutting Big Logs."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/026-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 26. Hauling Big Logs by Donkey Engine."
   },
   {
     "tag": "p",
@@ -673,7 +613,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 27. Steam Skidder at Work. Grant County, Arkansas."
+    "innerHtml": "Grant County, Arkansas."
   },
   {
     "tag": "p",
@@ -693,10 +633,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 28. Log Train, Humboldt County, California."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In loading, the machine is located so that the empty car will be directly in front of it, and then the logs are lifted up and placed on the car by the derrick. When the car is loaded the machine can either move on to the next car, or pull it under itself into place. With the help of four men it can load from 125,000 to 150,000 feet of timber in a day. By means of the cable it can make up a train, and then by lowering the truck and raising the legs out of the way, it is converted into a locomotive and hauls the train away to the mill or railway station at the rate of three or four miles at hour."
   },
   {
@@ -708,16 +644,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/029-581.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 29. Donkey Engine Yarding."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/030-596.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 30. Giant Raft. In the background is a completed raft;<br>in the foreground a cradle in which a raft is being built."
+    "innerHtml": "In the background is a completed raft;<br>in the foreground a cradle in which a raft is being built."
   },
   {
     "tag": "p",
@@ -729,7 +661,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 31. Snow Locomotive. Takes the place of 12 teamsters and 12 horses. Minnesota."
+    "innerHtml": "Takes the place of 12 teamsters and 12 horses. Minnesota."
   },
   {
     "tag": "p",
@@ -753,7 +685,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References\\"
+    "innerHtml": "References"
   },
   {
     "tag": "p",
@@ -844,8 +776,8 @@
     "innerHtml": "<em>Rev. of Rev.</em>, 28: 319."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "h4",
@@ -865,10 +797,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 32. Double Circular-Saw and Carriage."
-  },
-  {
-    "tag": "p",
     "innerHtml": "A gang-saw is simply a series of straight saw-blades set in a vertical frame. This has a reciprocating motion, enabling it to cut a log into a number of boards at one time. It has this drawback, that it must cut the size of lumber for which it is set; that is, the sawyer has no choice in cutting the thickness, but it is very economical, wasting only one-eighth of the log in sawdust. A special form is the flooring gang. It consists of a number of saws placed one inch apart. Thick planks are run thru it to saw up flooring."
   },
   {
@@ -876,16 +804,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/033-562.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 33. Gang-Saw."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/034-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 34. Band-Saw."
   },
   {
     "tag": "p",
@@ -896,16 +816,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/035-320.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 35. Double-Carrying Telescopic Band-Mill."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/036-578.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 36. Jack-Ladder, with Endless Chain. Mill in raised position for large log."
+    "innerHtml": "Mill in raised position for large log."
   },
   {
     "tag": "p",
@@ -916,16 +832,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/037-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 37. Two-Story Mill at Virginia, Minnesota, Showing Jack-Ladders and Consumer."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/038-495.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 38. Log-Flipper."
   },
   {
     "tag": "img",
@@ -933,7 +841,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 39. Log-Stop and Loader. By letting steam into the cylinder, the projecting arm revolves, rolling one log over onto the carriage and holding the next one till wanted."
+    "innerHtml": "By letting steam into the cylinder, the projecting arm revolves, rolling one log over onto the carriage and holding the next one till wanted."
   },
   {
     "tag": "p",
@@ -949,7 +857,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 40. The Steam Nigger.<br>The toothed bar turns the log over into the desired position."
+    "innerHtml": "The toothed bar turns the log over into the desired position."
   },
   {
     "tag": "img",
@@ -993,7 +901,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 41. Steam Cant-Flipper. This machine is used to move cants, timber, or lumber from live rollers to gangs, band resaw mills, or elsewhere. The timber is discharged upon skid rollers, as shown, or upon transfer chains."
+    "innerHtml": "This machine is used to move cants, timber, or lumber from live rollers to gangs, band resaw mills, or elsewhere. The timber is discharged upon skid rollers, as shown, or upon transfer chains."
   },
   {
     "tag": "p",
@@ -1008,16 +916,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/042-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 42. Log-Carriage, holding quartered log in position to saw."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/043-600.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 43. Double Gang Edger. This machine trims off the rough edges of the \"waney\" boards by means of the four saws in the main frame of the machine."
+    "innerHtml": "This machine trims off the rough edges of the \"waney\" boards by means of the four saws in the main frame of the machine."
   },
   {
     "tag": "img",
@@ -1025,7 +929,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 44. Automatic Steam Transfer for Timber, Lumber and Slabs. The boards are carried along by the cylinders, CCC, until they hit the bumper, B. This movement admits steam to the cylinder, CY, which raises the revolving chains or skids, which transfers the stock sidewise to other live rollers as required."
+    "innerHtml": "The boards are carried along by the cylinders, CCC, until they hit the bumper, B. This movement admits steam to the cylinder, CY, which raises the revolving chains or skids, which transfers the stock sidewise to other live rollers as required."
   },
   {
     "tag": "img",
@@ -1033,7 +937,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 45. Automatic Gang Lumber-Trimmer. It may be set to cut automatically to any desired length."
+    "innerHtml": "It may be set to cut automatically to any desired length."
   },
   {
     "tag": "img",
@@ -1041,15 +945,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 46. Lumber Sorting Shed. Virginia, Minnesota."
+    "innerHtml": "Virginia, Minnesota."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/047-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 47. Wood is carefully and regularly piled in the seasoning-yard."
   },
   {
     "tag": "p",
@@ -1065,7 +965,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 48. Cut-off-Saw. This saw trims the ends of timbers."
+    "innerHtml": "This saw trims the ends of timbers."
   },
   {
     "tag": "p",
@@ -1077,7 +977,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 49. Ten Saw Gang Lath Bolter. This machine cuts up material lengthwise into laths."
+    "innerHtml": "This machine cuts up material lengthwise into laths."
   },
   {
     "tag": "img",
@@ -1085,7 +985,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 50. Slab-Slasher. This machine cuts up the slabs into lengths suitable for lath or fence-pickets."
+    "innerHtml": "This machine cuts up the slabs into lengths suitable for lath or fence-pickets."
   },
   {
     "tag": "p",
@@ -1101,7 +1001,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 51. Combination Lath-Binder and Trimmer. With this machine the operator can trim the bundles of lath simply by tilting the packing frame over from him causing the bundles to pass between the saws, thereby trimming both ends at one movement."
+    "innerHtml": "With this machine the operator can trim the bundles of lath simply by tilting the packing frame over from him causing the bundles to pass between the saws, thereby trimming both ends at one movement."
   },
   {
     "tag": "img",
@@ -1109,7 +1009,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 52. Hand Shingle-Machine. This machine is used in Sawmills in which it is desired to utilize slabs and trimmings by sawing shingles therefrom, or to saw shingles from prepared bolts."
+    "innerHtml": "This machine is used in Sawmills in which it is desired to utilize slabs and trimmings by sawing shingles therefrom, or to saw shingles from prepared bolts."
   },
   {
     "tag": "p",
@@ -1125,7 +1025,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 53. Edging grinder or Hog. It cuts any kind of wood into coarse or fine chips suitable to be handled by chain conveyor or blower."
+    "innerHtml": "It cuts any kind of wood into coarse or fine chips suitable to be handled by chain conveyor or blower."
   },
   {
     "tag": "p",
@@ -1145,23 +1045,15 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 54. Scrap-Pile. Oscilla. Georgia."
+    "innerHtml": "Oscilla. Georgia."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/055-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 55. Slash-Grain and Comb-Grain Flooring."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/056-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 56. Methods of Sawing Quartered Logs."
   },
   {
     "tag": "hr",
@@ -1173,7 +1065,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References\\"
+    "innerHtml": "References"
   },
   {
     "tag": "p",
@@ -1184,16 +1076,12 @@
     "innerHtml": "Woodcraft 5: 56, May '06."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/057-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 57. Lumber-Kiln."
   },
   {
     "tag": "h4",
@@ -1278,10 +1166,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/058-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 58. Clamping up Boards to Prevent Warping."
   },
   {
     "tag": "p",
@@ -1437,7 +1321,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References\\"
+    "innerHtml": "References"
   },
   {
     "tag": "p",
@@ -1496,8 +1380,8 @@
     "innerHtml": "Tate, p. 21."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "h4",
@@ -1516,8 +1400,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". CUTTING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>CUTTING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -1540,16 +1424,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/059-276.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 59. Wedge Action."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/060-296.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 60. Edge Action."
   },
   {
     "tag": "p",
@@ -1568,16 +1444,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/061-300.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 61. Edge and Wedge Action With the Grain."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/062-267.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 62. Edge and Wedge Action Across the Grain."
   },
   {
     "tag": "p",
@@ -1600,16 +1468,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/063-130.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 63. Straight Cut."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/064-250.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 64. Sliding Cut."
   },
   {
     "tag": "p",
@@ -1629,10 +1489,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 65. Firmer-Chisel."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The most familiar form is the <em>firmer-chisel</em>, Fig. 65, which is said to get its name from the fact that it is firmer or stiffer than the paring-chisel. (See below. The firmer-chisel is a general utility tool, being suited for hand pressure or mallet pounding, for paring or for light mortising. )"
   },
   {
@@ -1645,7 +1501,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 66. Paring-Chisel.  Fig. 67. Framing-Chisel.  Fig. 68. Mortise-Chisel."
+    "innerHtml": "Fig. 67. Framing-Chisel.  Fig. 68. Mortise-Chisel."
   },
   {
     "tag": "p",
@@ -1673,19 +1529,25 @@
   },
   {
     "tag": "p",
-    "innerHtml": "In relation to the grain of the wood, it is used in three directions: (1 longitudinally, that is with the grain, called paring; (2 laterally, across the surface, called cutting sidewise; (3 transversely, that is across the end, called cutting end-wood. ) ) )"
+    "innerHtml": "In relation to the grain of the wood, it is used in three directions:"
+  },
+  {
+    "tag": "ol",
+    "innerHtml": {
+      "list": [
+        "longitudinally, that is with the grain, called paring;",
+        "laterally, across the surface, called cutting sidewise;",
+        "transversely, that is across the end, called cutting end-wood."
+      ]
+    }
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/069-462.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 69. Paring with a Chisel."
-  },
-  {
-    "tag": "p",
-    "innerHtml": ". <em>Paring</em>. To remove shavings rapidly, the chisel is held flat side up, the handle grasped by the right hand, with the thumb pointing toward the shank, and the blade held in the left hand, as in Fig. 69. Held in this way great control can be exerted and much force applied. For paring the surface as flat and smooth as possible, the chisel should be reversed, that is, held so that the flat side will \\ , Chapter VIII. By holding the cutting edge obliquely to the direction of the grain and of the cut, the effective \"sliding cut\" is obtained, Fig. 64. )"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Paring</em>. To remove shavings rapidly, the chisel is held flat side up, the handle grasped by the right hand, with the thumb pointing toward the shank, and the blade held in the left hand, as in Fig. 69. Held in this way great control can be exerted and much force applied. For paring the surface as flat and smooth as possible, the chisel should be reversed, that is, held so that the flat side will, Chapter VIII. By holding the cutting edge obliquely to the direction of the grain and of the cut, the effective \"sliding cut\" is obtained, Fig. 64. ) </p>"
   },
   {
     "tag": "img",
@@ -1693,7 +1555,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 70. Chiseling Out a Dado. (First Step)."
+    "innerHtml": "(First Step)."
   },
   {
     "tag": "img",
@@ -1701,47 +1563,31 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 71. Chiseling Out a Dado. (Second Step)."
+    "innerHtml": "(Second Step)."
   },
   {
-    "tag": "p",
-    "innerHtml": ". In <em>sidewise chiseling</em> the chisel is held in the same manner as in paring. A typical form of sidewise chiseling is the cutting out of a dado, Fig. 70. The work may be placed on the bench-hook or held in the vise with the side up from which the groove is to be cut. The chisel is pushed directly across the grain, the blade being somewhat inclined to the upper surface so as to cut off a corner next the saw kerf. After a few cuts thus made with the chisel inclined alternately both ways, the ridge thus formed is taken off, Fig. 71. In this way the surface is lowered to the required depth. If more force be required, the palm of the hand may be used as a mallet."
+    "tag": "blockquote",
+    "innerHtml": "<p>In <em>sidewise chiseling</em> the chisel is held in the same manner as in paring. A typical form of sidewise chiseling is the cutting out of a dado, Fig. 70. The work may be placed on the bench-hook or held in the vise with the side up from which the groove is to be cut. The chisel is pushed directly across the grain, the blade being somewhat inclined to the upper surface so as to cut off a corner next the saw kerf. After a few cuts thus made with the chisel inclined alternately both ways, the ridge thus formed is taken off, Fig. 71. In this way the surface is lowered to the required depth. If more force be required, the palm of the hand may be used as a mallet.</p>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/072-257.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 72. Perpendicular Chiseling."
-  },
-  {
-    "tag": "p",
-    "innerHtml": ". In <em>chiseling end-wood</em>, it is well, if possible, to rest the piece to be trimmed flat on the cutting board or on a piece of waste wood. Work done in this way is often called perpendicular chiseling, Fig.72. The handle is grasped in the right hand, thumb up, while the blade of the chisel passes between the thumb and first finger of the left hand, the back of which rests on the work and holds it in place. As the right hand pushes the chisel downwards the thumb and first finger of the left hand control its motion. When chiseling it is well to stand so as to look along the line being cut. Incline the chisel toward you, and use the near part of the cutting edge for a guide and the farther corner for cutting, pushing the handle both down and forward at the same time, Fig. 73. Or, by pushing the chisel sidewise with the thumb of the left hand at the same time that the right hand pushes it downward, the effective sliding cut is obtained."
+    "tag": "blockquote",
+    "innerHtml": "<p>In <em>chiseling end-wood</em>, it is well, if possible, to rest the piece to be trimmed flat on the cutting board or on a piece of waste wood. Work done in this way is often called perpendicular chiseling, Fig.72. The handle is grasped in the right hand, thumb up, while the blade of the chisel passes between the thumb and first finger of the left hand, the back of which rests on the work and holds it in place. As the right hand pushes the chisel downwards the thumb and first finger of the left hand control its motion. When chiseling it is well to stand so as to look along the line being cut. Incline the chisel toward you, and use the near part of the cutting edge for a guide and the farther corner for cutting, pushing the handle both down and forward at the same time, Fig. 73. Or, by pushing the chisel sidewise with the thumb of the left hand at the same time that the right hand pushes it downward, the effective sliding cut is obtained.</p>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/073-369.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 73. Chiseling End Wood."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/074-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 74. Paring a Corner Round."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/075-383.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 75. Right and Wrong Ways of Perpendicular Chiseling."
   },
   {
     "tag": "p",
@@ -1757,7 +1603,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 76. Mallet Chiseling.<br>The Piece is Clamped Down on the Bench With the Bench Hook."
+    "innerHtml": "The Piece is Clamped Down on the Bench With the Bench Hook."
   },
   {
     "tag": "p",
@@ -1789,7 +1635,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 78. Grinding Angle, 20°. Whetting Angle, 25°."
+    "innerHtml": "Whetting Angle, 25°."
   },
   {
     "tag": "p",
@@ -1798,10 +1644,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/079-353.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 79. Testing the Sharpness of a Chisel."
   },
   {
     "tag": "p",
@@ -1837,10 +1679,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 82. Gouging."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In working with the grain, by twisting the blade on its axis as it moves forward, delicate paring cuts may be made. This is particularly necessary in working cross-grained wood, and is a good illustration of the advantage of the sliding cut."
   },
   {
@@ -1853,23 +1691,15 @@
   },
   {
     "tag": "p",
-    "innerHtml": "In sharpening an outside bevel gouge, the main bevel is obtained on the grindstone, care being taken to keep the gouge rocking on its axis, so as to get an even curve. It is then whetted on the flat side of a slipstone, Fig. 83, the bevel already obtained on the grindstone being made slightly more obtuse at the edge. A good method is to rock the gouge on its axis with the left hand, while the slipstone held in the right hand is rubbed back and forth on the edge. Then the concave side is rubbed on the round edge of \\ ), contains one of these stones. The whetting, of course, is the reverse of that on the outside bevel gouge."
+    "innerHtml": "In sharpening an outside bevel gouge, the main bevel is obtained on the grindstone, care being taken to keep the gouge rocking on its axis, so as to get an even curve. It is then whetted on the flat side of a slipstone, Fig. 83, the bevel already obtained on the grindstone being made slightly more obtuse at the edge. A good method is to rock the gouge on its axis with the left hand, while the slipstone held in the right hand is rubbed back and forth on the edge. Then the concave side is rubbed on the round edge of), contains one of these stones. The whetting, of course, is the reverse of that on the outside bevel gouge."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/083-360.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 83. Whetting a Gouge."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/084-137.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 84. Sloyd Knife."
   },
   {
     "tag": "p",
@@ -1878,10 +1708,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/085-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 85. Draw-Knife."
   },
   {
     "tag": "p",
@@ -1901,10 +1727,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 86. Hand Saw."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The object of the saw is to cut thru a piece of material along a determined line. Its efficiency depends upon (1 the narrowness of the saw cut or \"kerf,\" and (2 upon the force required to drive it thru the material. The thinner the blade, the less material will be cut out and wasted, and the less force will have to be applied. In order to have the saw as thin as possible, almost all the people of the world, except the Anglo Saxons, have saws that cut when they are pulled toward the worker. The blade is in tension while cutting and in compression only when being returned for a new cut. German carpenters use a saw like our turning-saw. English and Americans have developed the saw on the opposite principle, namely, that it should cut on the pushing stroke. As a matter of fact, the crosscut-saw cuts somewhat on the back stroke. The pushing stroke necessitates a thickening of the blade sufficient to prevent buckling,—a not uncommon occurrence in the bands of a novice, in spite of this thickening. But tho this requires more force, and involves more waste, there are the compensations that the arm can exert more pressure in pushing than in pulling, especially when the worker stands upright or stoops over his work, and the stiffer wide blade acts as a guide to the sawyer. Each method has its advantages. Whatever may be true of hand-saws, in machine-saws the tension method, as illustrated by the gang-saw and the band-saw, is steadily displacing the compression method utilized in the circular-saw. Many kinds of work, however, can be done only on the circular-saw. ) )"
   },
   {
@@ -1917,7 +1739,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 87. Rip Saw Teeth: A-edge view, B-side view, C cross-section.<br>Crosscut-Saw Teeth: A'-edge view, B'-side view, C'-cross-section."
+    "innerHtml": "Crosscut-Saw Teeth: A'-edge view, B'-side view, C'-cross-section."
   },
   {
     "tag": "p",
@@ -1961,19 +1783,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 88. Rip-Sawing on a Horse."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Sawing may be done either on a saw-horse, Fig. 88, or at a bench. For big, rough work, the former is the common way, the worker holding the material in place with one knee, because this method enables him to exert his greatest strength. A convenient way for rip-sawing a small piece of wood is to insert it in the vise, Fig. 89, with the broad side of the board parallel to the vise screw, and the board inclined away from the worker who stands upright. The start is easy, the sawdust does not cover the line, and the board is not in danger of splitting. The board, however, has to be reversed after it is sawn part way thru, in order to finish the saw cut."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/089-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 89. Rip-sawing with Wood Held in Bench-Vise."
   },
   {
     "tag": "p",
@@ -1985,10 +1799,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 90. Using the Back-Saw with Bench-Hook."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In sawing, the wood may be held either in the vise or on the bench-hook. To help start the saw and at the same time to keep the edges of the cut sharp, it is well to make a little groove with the knife, on the waste side of the line to be followed, cutting the side of the groove next to the line at right angles to the surface. The saw drops directly into this groove, Fig. 91. In starting the saw cut, the saw should be guided by holding the thumb of the left hand against the side of the saw just above the teeth. Until the kerf is well started, the saw should be held so that the teeth just touch the wood. It is better not to attempt to start the saw level, i. e., with the teeth resting clear across the wood, but the handle should be raised so that the start is made only at the farther edge of the wood. Then as the saw is gradually lowered, the kerf will extend quite across the wood, Fig. 92. When the back-saw is used for ripping, the wood is held in the vise, end up. Begin sawing as in crosscutting, that is, at the farther corner with the handle end of the saw up, and gradually drop the handle. Watch the lines on both the front and back sides, and if necessary, reverse the piece to follow them."
   },
   {
@@ -1996,16 +1806,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/091-250.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 91. Starting a Saw Cut in a Trough Cut With Knife."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/092-350.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 92. Direction of the Back-Saw."
   },
   {
     "tag": "p",
@@ -2020,16 +1822,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/093-250.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 93. Dovetail-saw."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/094-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 94. Compass-Saw."
   },
   {
     "tag": "p",
@@ -2040,36 +1834,20 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/095-477.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 95. Using a Turning Saw."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/096-600.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 96. Saw-Vise."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<em>To file and set a saw</em>, the saw is first fastened in \\ , which is held in the right hand and its point in the thumb and fingers of the left. Pressure is applied only on the forward stroke, which should be long and even, the file being raised above the tooth on the return stroke. The file should cut in the direction of the set, that is, the teeth having the set away from the worker are filed first. Every alternate tooth, 1st. 3d, 5th, etc., is filed, and then the saw is reversed and the other set, the 2nd, 4th, 6th, etc., is filed."
+    "innerHtml": "<em>To file and set a saw</em>, the saw is first fastened in, which is held in the right hand and its point in the thumb and fingers of the left. Pressure is applied only on the forward stroke, which should be long and even, the file being raised above the tooth on the return stroke. The file should cut in the direction of the set, that is, the teeth having the set away from the worker are filed first. Every alternate tooth, 1st. 3d, 5th, etc., is filed, and then the saw is reversed and the other set, the 2nd, 4th, 6th, etc., is filed."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/097-300.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 97. A Saw-Jointer."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/098-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 98. Saw-Set."
   },
   {
     "tag": "p",
@@ -2096,8 +1874,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/099-100-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 99. Adjustable Chisel-Gage.           Fig. 100. Wooden Bench-Plane."
+    "tag": "pre",
+    "innerHtml": "<code>      Fig. 100. Wooden Bench-Plane.</code>"
   },
   {
     "tag": "p",
@@ -2132,48 +1910,48 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Frog screw</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Frog screw</em>.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Handle</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Handle</em>.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Knob</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Knob</em>.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Handle bolt and nut</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Handle bolt and nut</em>.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Knob screw, or <em>Knob bolt and nut</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p>Knob screw, or <em>Knob bolt and nut</em>.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Handle screw</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Handle screw</em>.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Bottom</em>, or sole."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Bottom</em>, or sole.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Toe."
+    "tag": "blockquote",
+    "innerHtml": "<p>Toe.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Heel."
+    "tag": "blockquote",
+    "innerHtml": "<p>Heel.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Throat."
+    "tag": "blockquote",
+    "innerHtml": "<p>Throat.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Thumb piece, or clamp lever, or cam."
+    "tag": "blockquote",
+    "innerHtml": "<p>Thumb piece, or clamp lever, or cam.</p>"
   },
   {
     "tag": "p",
@@ -2197,15 +1975,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Footnote 5: In whetting a plane-bit, a slight crown may be given it by rubbing a bit harder at the ends of the edge than in the middle. Strop in the same way as a chisel ( )."
+    "innerHtml": "Footnote 5: In whetting a plane-bit, a slight crown may be given it by rubbing a bit harder at the ends of the edge than in the middle. Strop in the same way as a chisel ."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/102-233.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 102. Sighting Along the Sole of Jack-Plane."
   },
   {
     "tag": "p",
@@ -2228,36 +2002,32 @@
     "innerHtml": "It is important to know what is the best order of procedure in planing up a board. There are often reasons for omitting the planing up of one or more surfaces, but it is wise to form the habit of following a regular order, and the following is suggested as a good one:"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Working face. Plane one broad side flat and smooth. Finish with the plane set to cut line shavings. Test with try-square. Mark this face with a distinct pencil mark, A, Fig. 103."
+    "tag": "blockquote",
+    "innerHtml": "<p>Working face. Plane one broad side flat and smooth. Finish with the plane set to cut line shavings. Test with try-square. Mark this face with a distinct pencil mark, A, Fig. 103.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Working edge. Plane one narrow side straight and square with the working face. Test with try-square, pressing the block of the try-square against the working face. Mark the working edge with two distinct pencil marks, B, Fig. 103."
+    "tag": "blockquote",
+    "innerHtml": "<p>Working edge. Plane one narrow side straight and square with the working face. Test with try-square, pressing the block of the try-square against the working face. Mark the working edge with two distinct pencil marks, B, Fig. 103.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". End. First mark the width on the working face with the marking-gage, C, 1-2, Fig. 103. Chisel off the corner, <em>a</em>, of the piece outside this gaged line. True and smooth this end with the plane, making it square with both working face and working edge, D, 2, 3, 4, Fig. 103."
+    "tag": "blockquote",
+    "innerHtml": "<p>End. First mark the width on the working face with the marking-gage, C, 1-2, Fig. 103. Chisel off the corner, <em>a</em>, of the piece outside this gaged line. True and smooth this end with the plane, making it square with both working face and working edge, D, 2, 3, 4, Fig. 103.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Length. Measure the length from the finished end, D, 2-3-4, score across the working face, D, 5-6, and working edge, D, 6-7, using a sharp knife point and the try-square. Saw just outside this line, D, 5-6-7, with the back-saw, cut off the narrow corner, D, <em>b</em>, beyond the gaged line and plane true, E, Fig. 103."
+    "tag": "blockquote",
+    "innerHtml": "<p>Length. Measure the length from the finished end, D, 2-3-4, score across the working face, D, 5-6, and working edge, D, 6-7, using a sharp knife point and the try-square. Saw just outside this line, D, 5-6-7, with the back-saw, cut off the narrow corner, D, <em>b</em>, beyond the gaged line and plane true, E, Fig. 103.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Width. Plane to the center of the gaged line, E, 1-2. Test this edge from the working face, F, Fig. 103."
+    "tag": "blockquote",
+    "innerHtml": "<p>Width. Plane to the center of the gaged line, E, 1-2. Test this edge from the working face, F, Fig. 103.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Thickness. Mark the thickness with the marking-gage all around the piece, F, 8-9-10. Plane to the center of the gaged line, G, Fig. 103. Test this face for flatness."
+    "tag": "blockquote",
+    "innerHtml": "<p>Thickness. Mark the thickness with the marking-gage all around the piece, F, 8-9-10. Plane to the center of the gaged line, G, Fig. 103. Test this face for flatness.</p>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/103-341.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 103. The Order of Planing a Board."
   },
   {
     "tag": "p",
@@ -2276,16 +2046,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/104-150.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 104. Sighting for Wind."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/105-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 105. Testing from Edge to Edge."
   },
   {
     "tag": "p",
@@ -2297,19 +2059,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 106. Planing an Edge."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The accuracy of the work as it progresses should frequently be tested, and the eye should constantly be trained so that it can more and more be depended upon to detect inaccuracy, Fig. 107. As each surface is trued, it should be carefully smoothed with the cutter set to cut fine shavings."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/107-482.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 107. Sighting an Edge."
   },
   {
     "tag": "p",
@@ -2345,10 +2099,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 108. Section of Block-Plane."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The names of the parts of the Bailey block-plane are6:"
   },
   {
@@ -2368,8 +2118,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Knob</em>."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Knob</em>.</p>"
   },
   {
     "tag": "p",
@@ -2412,16 +2162,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/110-111-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 110. Cutter of Scrub-Plane.           Fig. 111. Scratch-Plane and Scraper-Plane."
+    "tag": "pre",
+    "innerHtml": "<code>      Fig. 111. Scratch-Plane and Scraper-Plane.</code>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/112-113-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 112. Rabbet-Plane.                                Fig. 113. Molding-Plane."
+    "tag": "pre",
+    "innerHtml": "<code>                           Fig. 113. Molding-Plane.</code>"
   },
   {
     "tag": "p",
@@ -2434,10 +2184,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/114-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 114. Result of Careless use of Rabbet-Plane."
   },
   {
     "tag": "p",
@@ -2457,10 +2203,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 115. Tonguing-and-Grooving Plane."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>tonguing-and-grooving-plane</em>, Fig. 115, is for matching boards, i. e. making a tongue in one to fit into a groove in another. See Fig. 269, No.  ."
   },
   {
@@ -2473,19 +2215,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 116. Circular-Plane."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>universal plane</em>, Fig. 117, is a combination of various molding-, rabbeting-, matching- and other planes. It is capable of many adjustments and applications. The principal parts of this plane are: a <em>main stock</em>, <em>A</em>, with two sets of transverse sliding arms, a <em>depth-gage</em>, <em>F</em>, adjusted by a screw, and a <em>slitting cutter</em> with stop, a <em>sliding section</em>, <em>B</em>, with a vertically adjustable bottom, the <em>auxiliary center bottom</em>, <em>C</em>, to be placed when needed in front of the cutter as an extra support or stop. This bottom is adjustable both vertically and laterally. <em>Fences</em>, <em>D and E</em>. For fine work, fence <em>D</em> has a lateral adjustment by means of a thumb-screw. The fences can be used on either side of the plane, and the rosewood guides can be tilted to any desired angle up to 45°, by loosening the screws on the face. Fence <em>E</em> can be reversed for center-beading wide boards. For work thinner than the depth of the fence, the work may overhang the edge of the bench and fence <em>E</em> be removed. An <em>adjustable stop</em>, to be used in beading the edges of matched boards, is inserted on the left side of the sliding section <em>B</em>. A great variety of cutters are supplied, such as: molding, matching, sash, beading, reeding, fluting, hollow, round, plow, rabbet, and filletster. Special shapes can be obtained by order."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/117-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 117. Universal Plane."
   },
   {
     "tag": "p",
@@ -2524,16 +2258,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/118-119-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 118. Iron Spokeshave.               Fig. 119. Pattern-maker's Spokeshave."
+    "tag": "pre",
+    "innerHtml": "<code>          Fig. 119. Pattern-maker's Spokeshave.</code>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/120-415.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 120. Using a Spokeshave."
   },
   {
     "tag": "p",
@@ -2544,16 +2274,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/121-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 121. Router-Plane."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/122-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 122. Using a Router-Plane."
   },
   {
     "tag": "p",
@@ -2568,16 +2290,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/123-124-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 123. Dowel-Pointer.                Fig. 124. Cornering Tool."
+    "tag": "pre",
+    "innerHtml": "<code>           Fig. 124. Cornering Tool.          </code>"
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". BORING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>BORING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -2592,16 +2314,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/125-130-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 125. Brad-Awl.<br>Fig. 126. Twist-Drill.<br>Fig. 127. Twist-Bit.<br>Fig. 128. German Gimlet-Bit.<br>Fig. 129. Bit-Point Drill.<br>Fig. 130. Auger-Bit."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/131-136-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 131. Plug-Cutter.<br>Fig. 132. Center-Bit.<br>Fig. 133. Foerstner Auger-Bit.<br>Fig. 134. Expansive-Bit.<br>Fig. 135. Reamer.<br>Fig. 136. Rose Countersink."
   },
   {
     "tag": "p",
@@ -2633,15 +2347,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "There are three chief precautions to be taken in using auger-bits. (1 One is to bore perpendicularly to the surface. A good way to do this is to lay the work flat, either on the bench or in the vise, and sight first from the front and then from the side of the work, to see that the bit is perpendicular both ways. The test may also be made with the try-square, Fig. 137, or with a plumb-line, either by the worker, or in difficult pieces, by a fellow worker. The sense of perpendicularity, however, should constantly be cultivated. (2 Another precaution is that, in thru boring, the holes should not be bored quite thru from one side, lest the wood be splintered off on the back. When the spur pricks thru, the bit should be removed, the piece turned over, and the boring finished, putting the spur in the hole which is pricked \\ , may be used, or a block of wood of the proper length thru which a hole has been bored, may be slipped over the bit, or the length of bit may be noted before boring, and then the length of the projecting portion deducted, or the number of turns needed to reach the required depth may be counted on a trial piece. Tying a string around a bit, or making a chalk mark on it is folly. ) )"
+    "innerHtml": "There are three chief precautions to be taken in using auger-bits. (1 One is to bore perpendicularly to the surface. A good way to do this is to lay the work flat, either on the bench or in the vise, and sight first from the front and then from the side of the work, to see that the bit is perpendicular both ways. The test may also be made with the try-square, Fig. 137, or with a plumb-line, either by the worker, or in difficult pieces, by a fellow worker. The sense of perpendicularity, however, should constantly be cultivated. (2 Another precaution is that, in thru boring, the holes should not be bored quite thru from one side, lest the wood be splintered off on the back. When the spur pricks thru, the bit should be removed, the piece turned over, and the boring finished, putting the spur in the hole which is pricked, may be used, or a block of wood of the proper length thru which a hole has been bored, may be slipped over the bit, or the length of bit may be noted before boring, and then the length of the projecting portion deducted, or the number of turns needed to reach the required depth may be counted on a trial piece. Tying a string around a bit, or making a chalk mark on it is folly. ) )"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/137-262.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 137. Using a Try-Square as a Guide in Boring."
   },
   {
     "tag": "p",
@@ -2677,10 +2387,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig 138. Washer-Cutter."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>washer-cutter</em>, Fig. 138, is useful not only for cutting out washers but also for cutting holes in thin wood. The size is adjustable."
   },
   {
@@ -2688,8 +2394,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". CHOPPING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>CHOPPING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -2709,18 +2415,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 139. Ax."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 140. Shingling Hatchet."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 141. Carpenter's Adze."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>hatchet</em> has, beside the cutting edge, a head for driving nails, and a notch for drawing them, thus combining three tools in one. The shingling hatchet, Fig. 140, is a type of this."
   },
   {
@@ -2737,7 +2431,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References:\\"
+    "innerHtml": "References:"
   },
   {
     "tag": "p",
@@ -2912,8 +2606,8 @@
     "innerHtml": "Barnard, pp. 80-88."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "h4",
@@ -2928,8 +2622,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". SCRAPING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>SCRAPING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -2938,10 +2632,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/142-148-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 142. Auger-Bit-File.<br>Fig. 143. Single-Cut Blunt, Flat, Bastard File.<br>Fig. 144. Three-Square Single-Cut File.<br>Fig. 145. Open Cut, Taper, Half-Round File.<br>Fig. 146. Double-Cut File.<br>Fig. 147. Cabinet Wood-Rasp.<br>Fig. 148. File-Card."
   },
   {
     "tag": "p",
@@ -2957,7 +2647,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 149. a. Diagram of a Rasp Tooth.<br>          b. Cross-Section of a Single-Cut File."
+    "innerHtml": "Diagram of a Rasp Tooth.<br>          b. Cross-Section of a Single-Cut File."
   },
   {
     "tag": "p",
@@ -2977,19 +2667,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 150. Molding-Scrapers."
-  },
-  {
-    "tag": "p",
     "innerHtml": "There are various devices for holding scrapers in frames or handles, such as the scraper-plane, Fig. 111,  , the veneer-scraper, and box-scrapers. The <em>veneer-scraper</em>, Fig. 151, has the advantage that the blade may be sprung to a slight curve by a thumb-screw in the middle of the back, just as an ordinary scraper is when held in the hands."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/151-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 151. Using a Veneer-Scraper."
   },
   {
     "tag": "p",
@@ -3001,10 +2683,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 152. Using a Cabinet-Scraper."
-  },
-  {
-    "tag": "p",
     "innerHtml": "One method of sharpening the scraper is as follows: the scraper is first brought to the desired shape, straight or curved. This may be done either by grinding on the grindstone or by filing with a smooth, flat file, the scraper, while held in a vise. The edge is then carefully draw-filed, i. e., the file, a smooth one, is held (one hand at each end directly at right angles to the edge of the scraper, Fig. 153, and moved sidewise from end to end of the scraper, until the edge is quite square with the sides. Then the scraper is laid flat on the oilstone and rubbed, first on one side and then on the other till the sides are bright and smooth along the edge, Fig. 154. Then it is set on edge on the stone and rubbed till there are two sharp square corners all along the edge, Fig. 155. Then it is put in the vise again and by means of a burnisher, or scraper steel, both of these corners are carefully turned or bent over so as to form a fine burr. This is done by tipping the scraper steel at a slight angle with the edge and rubbing it firmly along the sharp corner, Fig. 156. )"
   },
   {
@@ -3012,32 +2690,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/153-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 153. Sharpening a Cabinet-Scraper: 1st Step, Drawfiling."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/154-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 154. Sharpening a Cabinet-Scraper: 2nd Step, Whetting."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/155-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 155. Sharpening a Cabinet-Scraper: 3rd Step, Removing the Wire-Edge."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/156-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 156. Sharpening a Cabinet-Scraper: 4th Step, Turning the Edge."
   },
   {
     "tag": "p",
@@ -3046,10 +2708,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/157-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 157. Resharpening a Cabinet-Scraper: Flattening the Edge."
   },
   {
     "tag": "p",
@@ -3068,8 +2726,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". POUNDING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>POUNDING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -3082,10 +2740,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/158-162-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 158. Claw-Hammer.<br>Fig. 159. Riveting-Hammer.<br>Fig. 160. Upholster's Hammer.<br>Fig. 161. Magnetized Hammer.<br>Fig. 162. Veneering-Hammer."
   },
   {
     "tag": "p",
@@ -3104,16 +2758,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/163-300.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 163. Drawing a Nail with Claw-Hammer."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/164-341.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 164. Mallets."
   },
   {
     "tag": "p",
@@ -3129,10 +2775,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 165. Using a Nailset."
-  },
-  {
-    "tag": "p",
     "innerHtml": "To keep the nailset in its place on the nail-head it may be held closely against the third finger of the left hand, which rests on the wood close to the nail. When a nailset is lacking, the head of a brad, held nearly flat, may be used. But care is necessary to avoid bruising the wood."
   },
   {
@@ -3140,8 +2782,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". HOLDING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>HOLDING TOOLS.</p>"
   },
   {
     "tag": "hr",
@@ -3160,16 +2802,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/166-600.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 166. Bench made with Pinned Mortise-and-Tenon Joints, Low Back."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/167-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 167. Woodworking Bench used at Pratt Institute, Showing Self-Adjusting Upright Vise."
   },
   {
     "tag": "p",
@@ -3181,10 +2815,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 168. A Rapid-Acting Vise."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Vises</em> for holding wood are of three general styles, (1 those with an upright wooden jaw, Fig. 167, which holds wide pieces of work well. They are now made with an automatic adjusting device by which the jaw and the face of the bench are kept parallel; (2 wooden vises with a horizontal jaw, guided by parallel runners, Fig. 166, and, (3 metal rapid-acting vises, Fig. 168. The latter are the most durable and in most respects more convenient. Special vises are also made for wood-carvers, for saw-filing, etc. ) ) )"
   },
   {
@@ -3193,11 +2823,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 169. Holding a Large Board in Vise for Planing."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "The best woodworking benches are equipped with both side- and tail-vises. The tail-vise is supplemented by movable bench-stops for \\ . In this case, (Fig. 120, the extra piece also supports the piece being worked upon. )"
+    "innerHtml": "The best woodworking benches are equipped with both side- and tail-vises. The tail-vise is supplemented by movable bench-stops for. In this case, (Fig. 120, the extra piece also supports the piece being worked upon. )"
   },
   {
     "tag": "p",
@@ -3212,28 +2838,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/170-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 170. Saw-Horse."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/171-400.png"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 171. Saw-Horse."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "The <em>picture-frame-vise</em>, Fig. 172, is a very convenient tool for making mitered joints, as in picture-frames. The vise holds two sides firmly so that after gluing they may be either nailed together or a spline inserted in a saw cut previously made. See Fig. 268, \\ . If the last joint in a picture-frame does not quite match, a kerf may be sawn at the junction of the two pieces, which can then be drawn close together."
+    "innerHtml": "The <em>picture-frame-vise</em>, Fig. 172, is a very convenient tool for making mitered joints, as in picture-frames. The vise holds two sides firmly so that after gluing they may be either nailed together or a spline inserted in a saw cut previously made. See Fig. 268,. If the last joint in a picture-frame does not quite match, a kerf may be sawn at the junction of the two pieces, which can then be drawn close together."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/172-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 172. Picture-Frame-Vise."
   },
   {
     "tag": "p",
@@ -3244,24 +2858,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/173-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 173. Handscrew."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/174-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 174. Adjusting Handscrew."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/175-403.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 175. Using a Handscrew to hold a Board at an Angle."
   },
   {
     "tag": "p",
@@ -3273,7 +2875,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 176. Steel-Bar Carpenter's Clamp. a. Steel Bar. b. Frame. c. Tip. d. Screw. e. Crank. f. Slide. g. Dog."
+    "innerHtml": "a. Steel Bar. b. Frame. c. Tip. d. Screw. e. Crank. f. Slide. g. Dog."
   },
   {
     "tag": "p",
@@ -3285,19 +2887,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 177. Iron Handscrew, (Carriage-Maker's Clamp)."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Pinch-dogs</em>, Fig. 178, are a convenient device for drawing together two pieces of wood, when injury to the surfaces in which they are driven does not matter. They vary in size from ¾\" to 2¾\". For ordinary purposes the smallest size is sufficient. For especially fine work, double-pointed tacks, properly filed, are convenient."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/178-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 178. Pinch-Dog."
   },
   {
     "tag": "p",
@@ -3309,10 +2903,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 179. Bench-Hook."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>miter-box</em>, Fig. 180, is a similar device with the addition of a guide for the saw. The <em>iron miter-box</em>, Fig. 181, with the saw adjustable to various angles, insures accurate work."
   },
   {
@@ -3320,16 +2910,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/180-300.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 180. Miter-Box."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/181-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 181. Iron Miter-Box."
   },
   {
     "tag": "p",
@@ -3342,14 +2924,6 @@
   {
     "tag": "p",
     "innerHtml": "Fig. 182. Pliers."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 183. Pincers."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 184. Nippers."
   },
   {
     "tag": "hr",
@@ -3368,24 +2942,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/185-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 185. Ratchet-Brace."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/186-261.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 186. Inserting a Bit in Stock."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/187-143.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 187. Hand-Drill."
   },
   {
     "tag": "p",
@@ -3397,10 +2959,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 188. Screwdriver.<br>Fig. 189. Screwdriver-Bit.<br>Fig. 190. Spiral Screwdriver."
-  },
-  {
-    "tag": "p",
     "innerHtml": "For heavy work, screwdriver-bits, Fig. 189, in a bit-stock are useful, and for quick work, the spiral screwdriver, Fig. 190, and for small work, the ratchet-screwdriver."
   },
   {
@@ -3408,8 +2966,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". MEASURING AND MARKING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>MEASURING AND MARKING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -3425,15 +2983,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 191. Two-Foot Rule. Two Fold."
+    "innerHtml": "Two Fold."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/192-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 192. Steel Bench-Rule."
   },
   {
     "tag": "p",
@@ -3460,16 +3014,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/193-167.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 193. Back of Steel Square, Brace Measure."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/194-169.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 194. Face of Steel Square, Octagon, \"Eight-Square,\" Scale."
   },
   {
     "tag": "p",
@@ -3478,10 +3024,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/195-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 195. Method of Using the Eight-Square Scale on the Steel-Square."
   },
   {
     "tag": "p",
@@ -3512,16 +3054,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/196-169.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 196. Back of Steel Square, Essex Board Measure."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/197-174.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 197. Steel Square with Rafter Table."
   },
   {
     "tag": "p",
@@ -3530,10 +3064,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/198-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 198. The \"Run\" and \"Rise\" of a Rafter."
   },
   {
     "tag": "p",
@@ -3557,27 +3087,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 199. Lumberman's Board Rule."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>try-square</em>, Fig. 200, which is most commonly used for measuring the accuracy of right angles, is also convenient for testing the width of a board at various places along its length, for making short measurements, and as a guide in laying out lines with a pencil or knife at right angles to a surface or edge. The sizes are various and are indicated by the length of the blade. A convenient size for the individual bench and for ordinary use has a blade 6\" long. It is also well to have in the shop one large one with a 12\" blade."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/200-202-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 200. Try-Square."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 201. Miter-Square."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 202. Sliding-T Bevel."
   },
   {
     "tag": "p",
@@ -3588,16 +3102,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/203-467.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 203. Using the Try-Square."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/204-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 204. Scribing with Knife by Try-Square."
   },
   {
     "tag": "p",
@@ -3613,18 +3119,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 200. Try-Square."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 201. Miter-Square."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 202. Sliding-T Bevel."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Winding-sticks</em>, Fig. 205, consist of a pair of straight strips of exactly the same width thruout. They are used to find out whether there is any twist or \"wind\" in a board. This is done by placing them parallel to each other, one at one end of the board, and the other at the other end. By sighting across them, one can readily see whether the board be twisted or not, Fig. 206. The blades of two framing-squares may be used in the same manner."
   },
   {
@@ -3632,16 +3126,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/205-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 205. Winding-Sticks, 12 inches Long."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/206-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 206. Method of Using the Winding-Sticks."
   },
   {
     "tag": "p",
@@ -3665,10 +3151,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 207. Winged Dividers.<br>Fig. 208. Beam-Compass or Trammel Points.<br>Fig. 209. Outside Calipers.<br>Fig. 210. Inside Calipers."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>marking-gage</em>, Fig. 211, consists of a head or block sliding on a beam or bar, to which it is fixed by means of a set-screw. On the face of the head is a brass shoe to keep the face from wearing. Projecting thru the beam is a steel spur or point, which should be filed to a flat, sharp edge, a little rounded and sharpened on the edge toward which the gage is to be moved, Fig. 212. It should project about ⅛\" from the beam. If the spur be at all out of place, as it is likely to be, the graduations on a beam will be unreliable. Hence it is best to neglect them entirely when setting the gage and always to measure with the rule from the head to the spur, Fig. 213."
   },
   {
@@ -3676,24 +3158,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/211-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 211. Marking-Gage."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/212-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 212. Spur of Marking-Gage."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/213-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 213. Setting a Marking-Gage."
   },
   {
     "tag": "p",
@@ -3705,10 +3175,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 214. Using the Marking-Gage."
-  },
-  {
-    "tag": "p",
     "innerHtml": "It is sometimes advisable, as in laying out chamfers, not to mark their edges with a marking-gage, because the marks will show after the chamfer is planed off. A pencil mark should be made instead. For this purpose a pencil-gage may be made by removing the spur of a marking-gage, and boring in its place a hole to receive a pencil stub with a blunt point, or a small notch may be cut in the back end of the beam, in which a pencil point is held while the gage is worked as usual except that its position is reversed. For work requiring less care, the pencil may be held in the manner usual in writing, the middle finger serving as a guide, or a pair of pencil compasses may be used, one leg serving as a guide. A special gage is made for gaging curved lines, Fig. 215."
   },
   {
@@ -3717,19 +3183,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 215. Marking-Gage for Curves."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>cutting-gage</em>, Fig. 216, is similar to a marking-gage, except that it has a knife-point inserted instead of a spur. It is very useful in cutting up soft, thin wood even as thick as ¼\"."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/216-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 216. Cutting-Gage."
   },
   {
     "tag": "p",
@@ -3745,19 +3203,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 217. Roller Mortise-Gage."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The <em>scratch-awl</em>, Fig. 218, has a long, slender point which is useful not only for marking lines, but for centering."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/218-300.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 218. Scratch-Awl."
   },
   {
     "tag": "p",
@@ -3769,10 +3219,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 219. Auger-Bit-Gage."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Screw- and wire-gages</em>, Fig. 220, are useful in measuring the lengths and sizes of screws and wire when fitting or ordering."
   },
   {
@@ -3781,7 +3227,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 220. Screw- and Wire-Gages. a. Screw-Gage. b. Wire-Gage. c. Twist-Drill-Gage."
+    "innerHtml": "a. Screw-Gage. b. Wire-Gage. c. Twist-Drill-Gage."
   },
   {
     "tag": "p",
@@ -3796,8 +3242,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". SHARPENING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>SHARPENING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -3813,10 +3259,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 221. Power Grindstone."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In order that the tool may be ground accurately, there are various devices for holding it firmly and steadily against the stone. A good one is shown in Figs. 221 and 222. This device is constructed as follows: A board A is made 2\" thick, 6\" wide, and long enough when in position to reach from the floor to a point above the level of the top of the stone. It is beveled at the lower end so as to rest snugly against a cleat nailed down at the proper place on the floor. The board is held in place by a loop of iron, B, which hooks into the holes in the trough of the grindstone. In the board a series of holes (say 1\" in diameter are bored. These run parallel to the floor when the board is in place, and receive the end of the tool-holder. The tool-holder consists of four parts: (1 a strip C, 1½\" thick, and as wide as the widest plane-bit to be ground. The forward end is beveled on one side; the back end is rounded to fit the holes in the main board A. Its length is determined by the distance from the edge of the tool being ground to the most convenient hole in A, into which the rear end is to be inserted. It is better to use as high a hole as convenient, so that as the grindstone wears down, the stick will still be serviceable; (2 a strip, D, of the same width as A and ⅞\" thick, and 15\" to 18\" long; (3 a cleat, E, ⅝\" × ¾\", nailed across D; (4 a rectangular loop of wrought iron or brass, F, which passes around the farther end of the two strips, C and D, and is fastened loosely to D by staples or screws. ) ) ) ) )"
   },
   {
@@ -3824,16 +3266,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/222-500.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 222. Grinding Device."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/223-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 223. Holder for Grinding Chisels or Plane-Bits."
   },
   {
     "tag": "p",
@@ -3857,10 +3291,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 224. Agacite Grinder."
-  },
-  {
-    "tag": "p",
     "innerHtml": "A very convenient and inexpensive grinding tool, Fig. 224, sold as the \"<em>Agacite grinder</em>,\"7 has a number of different shaped grinding stones made chiefly of carborundum."
   },
   {
@@ -3881,10 +3311,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 225. Slipstone."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Files</em> are used for sharpening saws, augers, scrapers, etc. See above."
   },
   {
@@ -3892,8 +3318,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": ". CLEANING TOOLS."
+    "tag": "blockquote",
+    "innerHtml": "<p>CLEANING TOOLS.</p>"
   },
   {
     "tag": "p",
@@ -3913,7 +3339,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References:\\"
+    "innerHtml": "References:"
   },
   {
     "tag": "p",
@@ -4080,8 +3506,8 @@
     "innerHtml": "Goss, pp. 39, 64-69."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "h4",
@@ -4173,10 +3599,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 227. Tack."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Tacks are useful only in fastening to wood thin material, such as veneers, textiles, leather, matting, tin, etc. Tinner's tacks, which are used for clinching, are commonly called clinch-nails. Wire tacks, altho made, are not so successful as cut tacks because they lack a sharp point, which is essential."
   },
   {
@@ -4186,10 +3608,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/228-200.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 228. Corrugated Fastener."
   },
   {
     "tag": "p",
@@ -4314,10 +3732,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/231-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 231. Machine-screws."
   },
   {
     "tag": "p",
@@ -4509,10 +3923,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 234. Parts of a butt-hinge."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Leaves."
   },
   {
@@ -4520,12 +3930,12 @@
     "innerHtml": "Knuckle."
   },
   {
-    "tag": "p",
-    "innerHtml": ". Pintle."
+    "tag": "blockquote",
+    "innerHtml": "<p>Pintle.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". Acorn."
+    "tag": "blockquote",
+    "innerHtml": "<p>Acorn.</p>"
   },
   {
     "tag": "p",
@@ -4534,10 +3944,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/235-287.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 235. Three Positions of Hinges."
   },
   {
     "tag": "hr",
@@ -4588,16 +3994,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/236-350.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 236. Rim-lock, for Drawer.<br>. Bolt. 2. Selvage.<br>. Box. 4. Key-pin."
+    "tag": "blockquote",
+    "innerHtml": "<p>Bolt. 2. Selvage.<br>Box. 4. Key-pin.</p>"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/237-350.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 237. Mortise-lock, for Box."
   },
   {
     "tag": "p",
@@ -4792,8 +4194,8 @@
     "innerHtml": "Wheeler, p. 402."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "h4",
@@ -5360,8 +4762,8 @@
     "innerHtml": "$750 Tool Equipment"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Including 1 Bench And Set Of Tools For Instructor And Individual Tools"
+    "tag": "blockquote",
+    "innerHtml": "<p>INCLUDING 1 BENCH AND SET OF TOOLS FOR INSTRUCTOR AND INDIVIDUAL TOOLS</p>"
   },
   {
     "tag": "p",
@@ -6273,19 +5675,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 238. Four Different Arrangements of Benches in a Shop."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>The Tools</em>. Every shop soon has its own traditions as to the arrangement of tools, but there are two principles always worth observing. (1 It is an old saying that there should be \"a place for everything and everything in its place.\" This is eminently true of a well-ordered woodworking shop, and there is another principle just as important. (2 Things of the same sort should be arranged together, and arranged by sizes, whether they be general tools or individual tools. In arranging the rack for general tools, a few suggestions are offered. In the first place, arrange them so that there will be no danger of cutting one's fingers on one tool when attempting to take down another. Where the rack must needs be high, all the tools can be brought within reach, by placing long tools, like files, screwdrivers, etc., at the top. Such an arrangement is shown in Fig. 239. ) )"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/239-546.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 239. General Tool rack in a School Shop."
   },
   {
     "tag": "p",
@@ -6317,10 +5711,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 240. Nail and Screw Cabinet."
-  },
-  {
-    "tag": "p",
     "innerHtml": "As for the care of tools during vacation, they should be smeared with vaseline, which is cheap, and put away out of the dampness. The planes should be taken apart and each part smeared. To clean them again for use, then becomes an easy matter. The best method of removing rust and tarnish is to polish the tools on a power buffing wheel on which has been rubbed some tripoli. They may then be polished on a clean buffer without tripoli."
   },
   {
@@ -6332,16 +5722,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/241-400.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 241. An Inexpensive Locker for Unfinished Work."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/242-564.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 242. A More Expensive Locker for Unfinished Work."
   },
   {
     "tag": "p",
@@ -6350,10 +5732,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/243-476.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 243. Gluing and Staining Bench Covered with Zinc."
   },
   {
     "tag": "p",
@@ -6366,10 +5744,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/244-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 244. Shellac Utensils."
   },
   {
     "tag": "p",
@@ -6389,10 +5763,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 245. Brush-keeper."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Oil stains should be poured back into their respective bottles, and the cups wiped out with cotton waste. When they get in bad condition, they can be cleaned readily after a preliminary soaking in a strong solution of potash. The same treatment may be given to brushes, but if they are left soaking too long in the solution, the bristles will be eaten off."
   },
   {
@@ -6405,7 +5775,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References\\"
+    "innerHtml": "References"
   },
   {
     "tag": "p",
@@ -6424,8 +5794,8 @@
     "innerHtml": "Hammacher and Schlemmer, passim."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography, see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography, see  </p>"
   },
   {
     "tag": "hr",
@@ -6549,19 +5919,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 246. Lay-out by Thru Dowling."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In a doweled butt-joint the dowels may go clear thru the outside member, and be finished as buttons on the outside, where they show. To lay out this joint mark near the ends of the edges of the abutting member, X, Fig. 246, center-lines A B. Draw on the other member Y, a sharp pencil-line to which when the lines AB on X are fitted, X will be in its proper place. Carry the line around to the other side of Y and locate on it the proper centers for the dowel-holes E and F. Then fasten on the end of X a handscrew in such a way that the jaws will be flush with the end. With another handscrew, clamp this handscrew to Y in such a way that the marks on the two pieces match, A to C and B to D, Fig. 247. Bore at the proper places, E and F, holes directly thru Y into X."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/247-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 247. Thru Boring for a Butt Joint."
   },
   {
     "tag": "p",
@@ -6573,19 +5935,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 248. Gluing-Up a Four-Legged Stand."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In case the dowels are to be hidden the chief difficulty is to locate the holes properly. One method of procedure is as follows: To dowel the end of one member against the face of the other as a stringer into a rail or a rail into a table leg, first lay out the position of the dowels in the end of the first member, X, Fig. 249. Gage a center-line, A B, across this end lengthwise, locate the centers of the dowel-holes, and square across with a knife point, as CD and EF. Gage a line on the other member to correspond with the line AB. On the face so gaged, lay the first member on its side so that one arris lies along this gaged line and prick off the points D and F, to get the centers of the dowel-holes."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/249-414.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 249. Laying out a Dowel Joint."
   },
   {
     "tag": "p",
@@ -6893,10 +6247,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 250. Laying Out a Dovetail Joint."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>No. 29. A gain joint</em> is a dado which runs only partly across one member, X. In order to make the edges of both members flush and to conceal the blind end of the gain, the corner of the other member, Y, is correspondingly notched out. In book shelves a gain gives a better appearance than a dado."
   },
   {
@@ -6909,15 +6259,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "A gain joint is laid out in the same way as the dado, except that the lines are not carried clear across the face of X, and only one edge is squared and gaged to the required depth. Knife grooves are made in the waste for starting the saw as in the dado. Before sawing, the blind end of the gain is to be chiseled out for a little space so as to give play for the back-saw in cutting down to the required depth. To avoid sawing too deep at the blind end, the sawing and chiseling out of waste may be carried on alternately, a little at a \\ , facilitates the cutting, and insures an even depth."
+    "innerHtml": "A gain joint is laid out in the same way as the dado, except that the lines are not carried clear across the face of X, and only one edge is squared and gaged to the required depth. Knife grooves are made in the waste for starting the saw as in the dado. Before sawing, the blind end of the gain is to be chiseled out for a little space so as to give play for the back-saw in cutting down to the required depth. To avoid sawing too deep at the blind end, the sawing and chiseling out of waste may be carried on alternately, a little at a, facilitates the cutting, and insures an even depth."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/251-200.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 251. Depth-gage for Dado."
   },
   {
     "tag": "hr",
@@ -6973,7 +6319,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "To make a blind mortise-and-tenon, first make the tenon thus: Locate accurately with a knife point the shoulders of the tenon and square entirely around the piece. On the working edge near the end mark the thickness of the tenon. Set the marking-gage at the proper distance from the working face to one cheek of the tenon and gage the end and the two edges between the end and the knife-lines. Reset the gage to mark the thickness of the tenon and gage that in the same way from the working face. Then mark and gage the width of the \\ ."
+    "innerHtml": "To make a blind mortise-and-tenon, first make the tenon thus: Locate accurately with a knife point the shoulders of the tenon and square entirely around the piece. On the working edge near the end mark the thickness of the tenon. Set the marking-gage at the proper distance from the working face to one cheek of the tenon and gage the end and the two edges between the end and the knife-lines. Reset the gage to mark the thickness of the tenon and gage that in the same way from the working face. Then mark and gage the width of the."
   },
   {
     "tag": "p",
@@ -7090,10 +6436,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/252-360.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 252. Keyed Mortise-and-Tenon Joint."
   },
   {
     "tag": "p",
@@ -7237,10 +6579,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 250. Laying Out a Dovetail Joint."
-  },
-  {
-    "tag": "p",
     "innerHtml": "(Transcriber's Note: Fig. 250. repeated here for clarity)"
   },
   {
@@ -7341,7 +6679,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 253. Gluing Together a Picture-Frame (See also Fig. 254.)"
+    "innerHtml": "254.)"
   },
   {
     "tag": "p",
@@ -7353,15 +6691,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 254. Picture-Frame-Clamp."
-  },
-  {
-    "tag": "p",
     "innerHtml": "![Fig. 255. Picture-Frame-Clamp. (See also Fig. 254. )"
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 255. Picture-Frame-Clamp. (See also Fig. 254.)"
+    "innerHtml": "(See also Fig. 254.)"
   },
   {
     "tag": "p",
@@ -7373,31 +6707,19 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 256. Gluing up a Column Joint.<br>(Pinch-Dogs at Top of Joints.)"
+    "innerHtml": "(Pinch-Dogs at Top of Joints.)"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/257-301.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 257. One Method of Gluing up a Six-Sided Taboret."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/258-350.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 258. Devices for Gluing Beveled Edges."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/259-191.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 259. Column-Clamp."
   },
   {
     "tag": "p",
@@ -7641,19 +6963,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 260. Applying Glue for an Edge-to-Edge Joint."
-  },
-  {
-    "tag": "p",
     "innerHtml": "After the pieces have been warmed, which should be done if possible, the glue is spread on them, Fig. 260, and they are then rubbed slowly back and forth in the direction of the grain, pressure being applied by the hand and care being taken not to open the joint in the least. As the glue sets, the rubbing becomes more difficult. It should be stopped when the boards are in their proper relative positions. In rubbing together the edges of two boards, handscrews may be fastened to one in such a way that their jaws serve as guides for the other board to slide between, Fig. 261. Care must be taken to make the jaws of the handscrew diverge enough not to pinch the upper board."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/261-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 261. Rubbing a Glued Joint."
   },
   {
     "tag": "p",
@@ -7686,10 +7000,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/262-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 262. Edge-to-Edge Joint, Doweled."
   },
   {
     "tag": "p",
@@ -7752,10 +7062,6 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/263-259.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 263. Boring for Dowels in an Edge-to-Edge Joint."
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
@@ -7765,7 +7071,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References\\"
+    "innerHtml": "References"
   },
   {
     "tag": "p",
@@ -7804,16 +7110,16 @@
     "innerHtml": "Griffith, pp. 86-104, 164-170."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "p",
     "innerHtml": "Transcriber's Note: The following six pages of diagrams are as they appeared in the original book. They are of poor quality, and the page enlargements are not much improved. These pages have been kept to preserve the original layout, and because they have been linked to from various places in the book. For the convenience of readers, the 75 diagrams have been individually enlarged, repaired where necessary, and inserted after their relevant, numbered, descriptions in the text (above), with links to them from the added lists at the tops of the original pages."
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fig. 264."
+    "tag": "blockquote",
+    "innerHtml": "<p>Fig. 264.</p>"
   },
   {
     "tag": "p",
@@ -7836,8 +7142,8 @@
     "innerHtml": "Fig. 264"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fig. 265."
+    "tag": "blockquote",
+    "innerHtml": "<p>Fig. 265.</p>"
   },
   {
     "tag": "p",
@@ -7860,8 +7166,8 @@
     "innerHtml": "Fig. 265"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fig. 266."
+    "tag": "blockquote",
+    "innerHtml": "<p>Fig. 266.</p>"
   },
   {
     "tag": "p",
@@ -7884,8 +7190,8 @@
     "innerHtml": "Fig. 266"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fig. 267."
+    "tag": "blockquote",
+    "innerHtml": "<p>Fig. 267.</p>"
   },
   {
     "tag": "p",
@@ -7908,8 +7214,8 @@
     "innerHtml": "Fig. 267"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fig. 268."
+    "tag": "blockquote",
+    "innerHtml": "<p>Fig. 268.</p>"
   },
   {
     "tag": "p",
@@ -7932,8 +7238,8 @@
     "innerHtml": "Fig. 268"
   },
   {
-    "tag": "h5",
-    "innerHtml": "Fig. 269."
+    "tag": "blockquote",
+    "innerHtml": "<p>Fig. 269.</p>"
   },
   {
     "tag": "p",
@@ -7989,10 +7295,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 270. Pen-Tray."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Where there is more than one process involved, the order of procedure is of importance. In general, a safe rule to follow in each case is to plane up the piece true and square, or, in technical language, to \"true\" it up. At least as many of its surfaces should be trued as are necessary for the \"lay out.\" Where the piece is to be rectangular all the surfaces should be true; where some of the surfaces are to be curved it is unnecessary and a waste of time to square them first. For example, in making a gouged tray with curved outline, Fig. 270, the working face, the working edge, and the thickness should all be true before the plan is laid out. Then, after the outline is drawn, the trough may be gouged, the outline cut with turning-saw, chisel, and spokeshave, and the edges molded with the gouge or chisel. If there is incised decoration it should be cut before the molding is cut, so that while being incised, the piece will lie flat without tipping."
   },
   {
@@ -8005,19 +7307,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 271. Difference Between Chamfer and Bevel."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Thru chamfering is best done with a plane, Fig. 272. For this purpose the piece may be held in the bench-vise and the plane tipped to the proper angle, or the piece may be held in a handscrew which in turn is held in the vise as in Fig. 175. The chamfers with the grain should be planed before those across the grain."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/272-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 272. Thru Chamfering."
   },
   {
     "tag": "p",
@@ -8028,24 +7322,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/273-300.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 273. Piece Held in Vise to Chamfer."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/274-500.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 274. Trough for Planing Chamfers."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/275-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 275. Stop Chamfering."
   },
   {
     "tag": "hr",
@@ -8077,7 +7359,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 276. Wall Brackets, Double-Hung: <em>a</em>. Single Support. <em>b</em>. Double Support."
+    "innerHtml": "Single Support. <em>b</em>. Double Support."
   },
   {
     "tag": "p",
@@ -8092,16 +7374,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/277-500.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 277. Wall Book-Case."
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/278-445.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 278. Construction of a Knock-Down Book-Shelf Seen From the Back."
   },
   {
     "tag": "p",
@@ -8110,10 +7384,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/279-400.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 279. Cricket."
   },
   {
     "tag": "p",
@@ -8141,10 +7411,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 281. Taboret."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Scrap-boxes</em>, Fig. 282, <em>and flower-pot boxes</em> may be made with the same construction."
   },
   {
@@ -8153,19 +7419,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 282. Scrap-Box."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Rectangular Boxes.</em> There are various methods of joining their sides. The butt joint, Fig. 264, No.  , is plain, simple, and good for coarse work. This joint may be reinforced as in packing boxes, Fig. 283."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/283-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 283. Reinforced Butt Joint in Box."
   },
   {
     "tag": "p",
@@ -8209,10 +7467,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 284. Methods of Attaching Box Bottoms."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>The Lids of Boxes.</em> The simplest form is a full flat cover, Fig. 285, A, which may be nailed or screwed to the box, as in packing cases. The cover may slide into a groove, Fig. 285, B, along the sides and into one end, the other end being lowered to admit it. The cover may have cleats on its underside, Fig. 285, C, which fit just inside the box and keep the top in place. The cleats also prevent the top from warping. This is a common Japanese construction, even in fine boxes. The Japanese tie the top on with a tape or ribbon."
   },
   {
@@ -8229,10 +7483,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 285. Forms of Box Construction."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Any of these lids may be made removable or hinged, except the sliding top. For methods of hinging see  ."
   },
   {
@@ -8245,19 +7495,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 286. Glueing Together a Box."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<em>Drawers.</em> In the best form, the sides are dovetailed to the front for strength, Fig. 287, for whenever the drawer is opened the front tends to pull away from the sides. This dovetail is half blind, so that the joint will not appear when the drawer is shut. In order that the drawer may always run freely and yet the front fit the opening as close as possible, it is common practice to cut a shallow rabbet on the ends of the front, so that the body of the drawer is a little narrower than the front is long, Fig. 287. Or the front may be attached \\ ."
+    "innerHtml": "<em>Drawers.</em> In the best form, the sides are dovetailed to the front for strength, Fig. 287, for whenever the drawer is opened the front tends to pull away from the sides. This dovetail is half blind, so that the joint will not appear when the drawer is shut. In order that the drawer may always run freely and yet the front fit the opening as close as possible, it is common practice to cut a shallow rabbet on the ends of the front, so that the body of the drawer is a little narrower than the front is long, Fig. 287. Or the front may be attached."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/287-560.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 287. Dovetailed Drawer Construction."
   },
   {
     "tag": "p",
@@ -8293,7 +7535,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 288. Door, Illustrating Panel Construction: S. Stile; T. R. Top Rail; L. R. Lock Rail; B. R. Bottom Rail; M. Muntin; P. Panel; A. Double Mortise-and-Tenon; F. Fillet; A. B. C. Forms of Panels."
+    "innerHtml": "Stile; T. R. Top Rail; L. R. Lock Rail; B. R. Bottom Rail; M. Muntin; P. Panel; A. Double Mortise-and-Tenon; F. Fillet; A. B. C. Forms of Panels."
   },
   {
     "tag": "p",
@@ -8313,10 +7555,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 289. The Way a Mitered Joint Opens on Account of Shrinkage."
-  },
-  {
-    "tag": "p",
     "innerHtml": "In window sashes, the dovetail joint, Fig. 267, No. , is the common one at the upper end of the lower sash and the lower end of the upper sash, and the mortise-and-tenon joint modified is used at the lower end of the lower and upper end of the upper sash. The glass takes the place of the panel. In blind sashes, the pinned mortise-and-tenon joint, Fig. 267, No. , is commonly used."
   },
   {
@@ -8330,10 +7568,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/290-450.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 290. Chest Construction."
   },
   {
     "tag": "hr",
@@ -8369,7 +7603,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 291. A. Cross-Section Thru Back Left Leg and Adjoining Rails of Table. (Plan).<br>B. Elevation, Showing Wide Shoulder on Tenon of Rail."
+    "innerHtml": "Cross-Section Thru Back Left Leg and Adjoining Rails of Table. (Plan).<br>B. Elevation, Showing Wide Shoulder on Tenon of Rail."
   },
   {
     "tag": "p",
@@ -8381,19 +7615,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 292. Table Construction: Upper Drawer Rail of Table Dovetailed into Left Front Leg."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The drawer rail, also called the fore edge, is long enough to partly overlap the side rails, into the lower edges of which it is gained so as to be flush with them, and may be fastened to them with screws, Fig. 293. The construction may be further strengthened by also doweling the end of this stretcher into the legs. If there are two drawers, the partition between them may be doweled or gained into these upper and lower stretchers."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/293-385.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 293. The Fixing of a Drawer Rail, Seen From Below."
   },
   {
     "tag": "p",
@@ -8405,10 +7631,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 294. Brace to Insure Right Angles in Assembling a Framed structure."
-  },
-  {
-    "tag": "p",
     "innerHtml": "To fit the drawer to its place, runners and guides, Fig. 295, must first be fastened in. The runners are in line with the drawer rail, and are glued and nailed or screwed to the side rails between the back of the lower stringer and the back posts. On top of them and in line with the inner face of the legs are the guides running between the front and back posts. Or the runner and guide may be made of one piece properly rabbeted out."
   },
   {
@@ -8417,19 +7639,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 295. Drawer Mechanism."
-  },
-  {
-    "tag": "p",
     "innerHtml": "If there are two drawers, a double runner lies between, and is gained into the middles of the back rail and the stringer, and on it is a guide for both drawers, equal in width to the partition between the drawers. The drawers should run easily in their proper places. In order to insure this, the drawer should be slightly narrower than the opening which receives it. A little French chalk, rubbed on the sides and runners, makes the running smoother. Sometimes the opening for a drawer is cut out of the front rail, as in Fig. 296. In this case the drawer runners are supported between the front and back rails, into which they may be gained."
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/296-500.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 296. Opening for Drawer Cut Out of Front Rail of Table."
   },
   {
     "tag": "p",
@@ -8445,10 +7659,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 297. Methods of attaching Table Top to Rails."
-  },
-  {
-    "tag": "p",
     "innerHtml": "<em>Chairs</em> may be so simplified in form as to be possible for the amateur to construct. The two front legs and the rail and stretcher between them offer little difficulty because the angles are square."
   },
   {
@@ -8458,10 +7668,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/298-600.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Fig. 298. Chair Construction."
   },
   {
     "tag": "p",
@@ -8477,10 +7683,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 299. Bending Boards into Shape after Boiling Them."
-  },
-  {
-    "tag": "p",
     "innerHtml": "To upholster a chair seat, a frame should first be made of the shape shown in Fig. 298, C. The strips are about 2\" wide and ½\" thick with their ends half-lapped. The seat rails are rabbeted ½\" deep and ½\" wide to receive this frame, which should be ⅛\" smaller all around than the place to receive it. The returns at the corners fit around the legs at ⅛\" distance from them. This ⅛\" provides space for the coverings. After the frame is fitted, it is covered with 3\" webbing tacked firmly to the upper side. The webbing which goes back and forth is interwoven with that which goes from right to left. Over this is stretched and tacked (also to the upper side a piece of unbleached muslin. A second piece of muslin is tacked to the back edge and part way along the side edges, leaving for the time the corners unfinished. In the pocket thus formed horsehair or other stuffing is pushed, care being taken to distribute it evenly and not too thick. When the pocket is filled, the muslin is tacked farther along the sides and more hair put in, until the front is reached, when the muslin is tacked to the front edge. The corners are now drawn in tight, a careful snip with the scissors parting them diagonally so as to lie in well. The partings may be turned down and tacked on the under side of the frame. )"
   },
   {
@@ -8493,23 +7695,19 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 300. House Construction."
-  },
-  {
-    "tag": "p",
     "innerHtml": "The balloon-frame house is a typical form of framed construction, Fig. 300. The essential parts of a balloon-frame are:"
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre><code> 1\\. SILL, 4\" × 8\", which rests on the foundation.\n 2\\. BEAMS, 4\" × 8\", which rest on the cellar posts, 6\"×6\". (Not shown in illustration.)\n 3\\. FLOOR JOISTS, 2\" × 8\", which rest on the sill and beams.\n 4\\. CORNER POSTS, 4\" × 6\", with 2\"×4\" studs nailed to them.\n 5\\. STUDDING, 2\" × 4\", which stand 16\" between centers.\n 6\\. WALL RIBBON, or girt, 1\" × 8\", which supports the upper story joists.\n 7\\. PLATES, two 2\" × 4\" nailed together, resting on studs.\n 8\\. RAFTERS, 2\" × 6\", which support the roof.\n 9\\. TIE-BEAMS, 2\" × 6\", which prevent the roof from spreading the walls. (Not shown in illustration.)\n 10\\. RIDGE-POLE, 2\" × 8\", against which the rafters butt.\n 11\\. BRIDGING, 2\" × 2\", which stiffens the floor joists.\n 12\\. SHEATHING, (1\" thick), put on diagonally to brace the building. The rest is covering.\n 13\\. FLOORING, (See also Fig. 301.)\n In flooring, Fig. 301, the boards are made narrow so as to reduce the size of openings at the joints when they shrink, and also to reduce the tendency to warp. They may be laid side by side as in the cheapest floors, or matched to close the joint. For difference between slash- and comb-grain flooring, see Fig. 55.\n 14\\. BUILDING PAPER.\n 15\\. SIDING OR CLAPBOARDS, (See Fig. 301. may either overlap without a joint or be rabbeted to fit. The best siding is rabbeted. ) </code></pre>"
+    "innerHtml": "<pre><code> 1. SILL, 4\" × 8\", which rests on the foundation.\n 2. BEAMS, 4\" × 8\", which rest on the cellar posts, 6\"×6\". (Not shown in illustration.)\n 3. FLOOR JOISTS, 2\" × 8\", which rest on the sill and beams.\n 4. CORNER POSTS, 4\" × 6\", with 2\"×4\" studs nailed to them.\n 5. STUDDING, 2\" × 4\", which stand 16\" between centers.\n 6. WALL RIBBON, or girt, 1\" × 8\", which supports the upper story joists.\n 7. PLATES, two 2\" × 4\" nailed together, resting on studs.\n 8. RAFTERS, 2\" × 6\", which support the roof.\n 9. TIE-BEAMS, 2\" × 6\", which prevent the roof from spreading the walls. (Not shown in illustration.)\n 10. RIDGE-POLE, 2\" × 8\", against which the rafters butt.\n 11. BRIDGING, 2\" × 2\", which stiffens the floor joists.\n 12. SHEATHING, (1\" thick), put on diagonally to brace the building. The rest is covering.\n 13. FLOORING, (See also Fig. 301.)\n In flooring, Fig. 301, the boards are made narrow so as to reduce the size of openings at the joints when they shrink, and also to reduce the tendency to warp. They may be laid side by side as in the cheapest floors, or matched to close the joint. For difference between slash- and comb-grain flooring, see Fig. 55.\n 14. BUILDING PAPER.\n 15. SIDING OR CLAPBOARDS, (See Fig. 301. may either overlap without a joint or be rabbeted to fit. The best siding is rabbeted. ) </code></pre>"
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre><code> 16\\. WATER-TABLE.\n 17\\. CORNER-BOARD.\n 18\\. FURRING.\n 19\\. SHINGLES.\n 20\\. LATHING.\n 21\\. CEILING, Fig. 301, consists of matched boards having a \"bead\" to disguise the joint and give a decorative effect.</code></pre>\n\n\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/301-600.png\" alt=\"Fig. 301. Siding, Ceiling, Flooring.\">"
+    "innerHtml": "<pre><code> 16. WATER-TABLE.\n 17. CORNER-BOARD.\n 18. FURRING.\n 19. SHINGLES.\n 20. LATHING.\n 21. CEILING, Fig. 301, consists of matched boards having a \"bead\" to disguise the joint and give a decorative effect.</code></pre>"
   },
   {
-    "tag": "p",
-    "innerHtml": "Fig. 301. Siding, Ceiling, Flooring."
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/handwork-in-wood/master/assets/images/301-600.png"
   },
   {
     "tag": "hr",
@@ -8521,7 +7719,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References\\"
+    "innerHtml": "References"
   },
   {
     "tag": "p",
@@ -8604,8 +7802,8 @@
     "innerHtml": "Goss, pp. 141-144."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "h4",
@@ -8620,28 +7818,28 @@
     "innerHtml": "Footnote 11: Professor Rankine's Five Principles:"
   },
   {
-    "tag": "p",
-    "innerHtml": ". To cut the joints and arrange the fastenings so as to weaken the pieces of timber they connect as little as possible."
+    "tag": "blockquote",
+    "innerHtml": "<p>To cut the joints and arrange the fastenings so as to weaken the pieces of timber they connect as little as possible.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". To place each abutting surface in a joint as nearly as possible perpendicular to the pressure which it has to transmit."
+    "tag": "blockquote",
+    "innerHtml": "<p>To place each abutting surface in a joint as nearly as possible perpendicular to the pressure which it has to transmit.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". To proportion the area of each surface to the pressure which it has to bear so that the timber may be safe against injury under the heaviest load which occurs in practice, and to form and fit every pair of such surfaces accurately in order to distribute the stress uniformly."
+    "tag": "blockquote",
+    "innerHtml": "<p>To proportion the area of each surface to the pressure which it has to bear so that the timber may be safe against injury under the heaviest load which occurs in practice, and to form and fit every pair of such surfaces accurately in order to distribute the stress uniformly.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". To proportion the fastenings so that they may be of equal strength with the pieces which they connect."
+    "tag": "blockquote",
+    "innerHtml": "<p>To proportion the fastenings so that they may be of equal strength with the pieces which they connect.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". To place the fastenings in each piece of timber so that there shall be sufficient resistance to the giving way of the joint by the fastenings shearing or crushing their way thru the timber."
+    "tag": "blockquote",
+    "innerHtml": "<p>To place the fastenings in each piece of timber so that there shall be sufficient resistance to the giving way of the joint by the fastenings shearing or crushing their way thru the timber.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Avoid multiplication of errors by making all measurements (as far as possible from a common starting point, and laying off all angles from the same line or surface.</em> Illustrations of this principle are as follows: Before proceeding with other processes, a working face and working edge and as many other surfaces as will finally appear in the finished piece, should be trued up. At least the working face and working edge are essential to the proper \"lay-out\" of the piece, whenever measurements are made from an edge. )"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Avoid multiplication of errors by making all measurements (as far as possible from a common starting point, and laying off all angles from the same line or surface.</em> Illustrations of this principle are as follows: Before proceeding with other processes, a working face and working edge and as many other surfaces as will finally appear in the finished piece, should be trued up. At least the working face and working edge are essential to the proper \"lay-out\" of the piece, whenever measurements are made from an edge. ) </p>"
   },
   {
     "tag": "p",
@@ -8656,8 +7854,8 @@
     "innerHtml": "In the laying out of a halved joint, Fig. 265, Nos.  , the gaging is all done from what will be one of the flush surfaces of the joined pieces. Then, if the gaged line should be slightly more or less than half the thickness of the pieces the closeness of the joint would not be affected."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>When possible, in laying out a joint, use the method of superposition.</em> Fig. 302. By this is meant the method by which the lay-out of one member is obtained directly from the other by laying (superposing the latter on the former and marking or scribing the needed dimensions directly, instead of by measurement. It has the advantages of simplicity, speed, and greater probability of fit. )"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>When possible, in laying out a joint, use the method of superposition.</em> Fig. 302. By this is meant the method by which the lay-out of one member is obtained directly from the other by laying (superposing the latter on the former and marking or scribing the needed dimensions directly, instead of by measurement. It has the advantages of simplicity, speed, and greater probability of fit. ) </p>"
   },
   {
     "tag": "img",
@@ -8665,15 +7863,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 302. Marking by Superposition."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Familiar illustrations are in the making of halved joints, Fig. 265, Nos.  ."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Work systematically.</em> In case the same process is to be repeated on a number of parts, complete this process in all before taking up another process. This is the principle of the division of labor applied to the individual workman."
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Work systematically.</em> In case the same process is to be repeated on a number of parts, complete this process in all before taking up another process. This is the principle of the division of labor applied to the individual workman.</p>"
   },
   {
     "tag": "p",
@@ -8689,10 +7883,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 303. Making a Number of Like Pieces from a Given Piece."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Or a long strip may be planed to thickness and width and then be sawn up and finished to the proper lengths. For example, in a mitered picture-frame it may be convenient to plane up two pieces, each one long enough to make one long side and one short side."
   },
   {
@@ -8700,16 +7890,16 @@
     "innerHtml": "In fitting up framed structures each part when fitted should be distinctly marked, so that there may be no confusion in assembling."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Where practicable secure the same conditions of grain in different elements of joined structures.</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Where practicable secure the same conditions of grain in different elements of joined structures.</em></p>"
   },
   {
     "tag": "p",
     "innerHtml": "Illustrations of this are as follows: The grain of the sides of a box should run continuously around the box, or, in the case of a tall, slim box, the grain of all the sides should run up and down. In either case, the grain in the different sides is parallel. In a rubbed joint, Fig. 269, No.  ."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Where possible, allow for shrinkage without prejudice to construction.</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Where possible, allow for shrinkage without prejudice to construction.</em></p>"
   },
   {
     "tag": "p",
@@ -8724,8 +7914,8 @@
     "innerHtml": "A drawing-board, Fig. 280,  , is so made that it can shrink or swell without losing its flatness. Shingles when properly laid, can shrink or swell without the roof leaking."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Where feasible, undercut joined surfaces so as to give clearance on the inside and insure a tight appearance. But glued surfaces should be made to meet flat.</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Where feasible, undercut joined surfaces so as to give clearance on the inside and insure a tight appearance. But glued surfaces should be made to meet flat.</em></p>"
   },
   {
     "tag": "p",
@@ -8744,8 +7934,8 @@
     "innerHtml": "In matched flooring, the underside of the boards is slightly narrower than the upper side so that the joint may close on the upper side without fail, Fig. 301. The ends of flooring boards are also slightly beveled so as to make a tight fit on the upper side."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Select the simplest form of joint and use the smallest number of abutments (bearing surfaces possible, because the more complicated the joint or the greater the number of bearing surfaces, the less likelihood there is of a sound and inexpensive construction.</em> )"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Select the simplest form of joint and use the smallest number of abutments (bearing surfaces possible, because the more complicated the joint or the greater the number of bearing surfaces, the less likelihood there is of a sound and inexpensive construction.</em> ) </p>"
   },
   {
     "tag": "p",
@@ -8764,8 +7954,8 @@
     "innerHtml": "A butt joint, Fig. 264, No. , is stronger than a mitered joint, Fig. 268, No. , in a box, for the latter is almost sure to shrink apart. Where appearance is important, a ledge and miter joint has the advantage of both, Fig. 268, No. ."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Keep a due proportion of strength between the fastenings (joints and the pieces fastened: i. e., the construction should neither be frail on the one hand, because the pieces of wood are weakened by too much cutting, nor clumsy, on the other hand, because then the fastenings would be inordinately strong. In other words, the different parts should be equally strong.</em> )"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Keep a due proportion of strength between the fastenings (joints and the pieces fastened: i. e., the construction should neither be frail on the one hand, because the pieces of wood are weakened by too much cutting, nor clumsy, on the other hand, because then the fastenings would be inordinately strong. In other words, the different parts should be equally strong.</em> ) </p>"
   },
   {
     "tag": "p",
@@ -8800,8 +7990,8 @@
     "innerHtml": "Pins or other fastenings, Fig. 267, Nos.  and , may weaken rather than strengthen a joint if they are so placed or are so large as to shear or crush their way thru the timber."
   },
   {
-    "tag": "p",
-    "innerHtml": ". <em>Place each abutting surface in a joint as nearly as possible perpendicular to the pressure which it has to transmit.</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Place each abutting surface in a joint as nearly as possible perpendicular to the pressure which it has to transmit.</em></p>"
   },
   {
     "tag": "p",
@@ -9117,10 +8307,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Fig. 304. Direction of the Pad in French Polishing."
-  },
-  {
-    "tag": "p",
     "innerHtml": "Another recipe for finishing. Use 4 drams grain alcohol, 2 drams orange shellac, 5 drams tincture of benzoin, 1 teaspoonful of olive oil. Dissolve and strain. Apply with pad in direction of grain."
   },
   {
@@ -9164,8 +8350,8 @@
     "innerHtml": "Paints are used for the same purpose as other finishes, with the additional one of giving an opaque colored covering. The materials used are:"
   },
   {
-    "tag": "p",
-    "innerHtml": ". A body whose function is to give covering power. This is usually white lead, but it is often adulterated with zinc oxide; 2. Pigments; 3. Linseed oils, raw and boiled, which are used to give consistency, adhesiveness and also elasticity to the coat when dry. For outdoor work boiled oil is used and for indoor work, raw oil; 4. Turpentine, which is used to thin out the paint and to make it dry more quickly."
+    "tag": "blockquote",
+    "innerHtml": "<p>A body whose function is to give covering power. This is usually white lead, but it is often adulterated with zinc oxide; 2. Pigments; 3. Linseed oils, raw and boiled, which are used to give consistency, adhesiveness and also elasticity to the coat when dry. For outdoor work boiled oil is used and for indoor work, raw oil; 4. Turpentine, which is used to thin out the paint and to make it dry more quickly.</p>"
   },
   {
     "tag": "p",
@@ -9253,7 +8439,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "References:\\"
+    "innerHtml": "References:"
   },
   {
     "tag": "p",
@@ -9376,8 +8562,8 @@
     "innerHtml": "II, pp. 112-153, Maire, pp. 124-141."
   },
   {
-    "tag": "p",
-    "innerHtml": "\\ For general bibliography see"
+    "tag": "blockquote",
+    "innerHtml": "<p>For general bibliography see  </p>"
   },
   {
     "tag": "hr",
@@ -9393,7 +8579,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre><code> Acorn of hinge.\n Adjustment of plane.\n Adze.\n Agacite grinder.\n Alcohol:\n Grain (Ethyl).\n Wood (Methyl).\n Alligator.\n Ammonia.\n Angle of bevel.\n Aniline stains:\n Alcohol.\n Oil.\n Water.\n Antique oak.\n Anvil.\n Arrangement of shop,  \\-144.\n Arris.\n Asphaltum.\n Auger-bit.\n Auger-bit-gage.\n Ax.\n Back-saw.\n Balloon frame.\n Banana oil.\n Band-saw.\n Banking grounds.\n Beam-compass.\n Beams.\n Bench.\n Glue and Stain.\n Bench-hook.\n Bending wood.\n Benzine.\n Bevel of cutting tools.\n Bevel, Sliding T.\n Bezel, See Bevel.\n Bill-hook.\n Binding of saw.\n Bit, Plane.\n Bits.\n Bit, Twist.\n Bit-point drill.\n Bit-stock, See Brace.\n Black.\n Blank-hinge.\n Blazes on trees.\n Blinds.\n Block, Corner.\n Block-plane, See Plane, Block.\n Blue, Prussian.\n Board.\n Board construction,  \\-192.\n Board-dipper.\n Board foot.\n Board measure.\n Board structures,  \\-192.\n Bolt of lock.\n Bolts.\n Book shelves.\n Boom, Log.\n Boring, Directions for.\n Boring tools,  \\-87.\n Box,  \\-191.\n Bottoms.\n Lids.\n Of lock.\n Brace.\n Brace, Ratchet.\n Brace-measure.\n Bracket.\n Brad-awl.\n Brads.\n Breaking out the roll-ways.\n Bridging.\n Brown, Bismarck.\n Dark.\n Reddish.\n Vandyke.\n Brush.\n Brush, See also Duster.\n Brush-Keeper.\n Buckling of saw.\n Buffer.\n Burn of shellac.\n Butt-hinge.\n Cabinet construction,  \\-195.\n Cabinet for nails and screws.\n Calipers.\n Camp, logging.\n Cant,  , foot-note.\n Cant-flipper.\n Cant-hook.\n Cape-chisel.\n Care of the shop,  \\-150.\n Carriage-bolts. \n _Carteria lacca_.\n Carving tools.\n Case-hardening.\n C-Clamps.\n See carriage-makers' clamps.\n Ceiling.\n Center-bit.\n Chain.\n Chair,  \\-201.\n Chalk, French.\n Chamfer.\n Chatter.\n Cheek of joint.\n Cheese-cloth.\n Chest.\n Chest-hinge.\n Chisel.\n See also Chiseling end-wood,  \n  Paring, Sidewise chiseling.\n Chisel, Cape.\n Carving.\n Cold.\n Corner.\n Firmer.\n Framing.\n Mortise.\n Paring.\n Round-nosed.\n Skew.\n Turning.\n Chisel-gage.\n Chiseling, end-wood.\n Sidewise.\n Perpendicular.\n Choking of Plane.\n Chopping tools.\n Clamp.\n Carriage-makers.\n Column.\n Plane.\n Clapboards.\n Claw hammer.\n Cleaning tools.\n Cleats.\n Comb-grain.\n Compass.\n Blackboard.\n Compass-saw.\n Consumer.\n Copal.\n Coping-saw.\n Copper, Soldering.\n Corner-blocks.\n Corner-board.\n Cornering tool.\n Corner-iron.\n Corner locking.\n Corrugated fasteners.\n Cost of Equipment,  \\-142.\n Countersink.\n Cricket.\n Crosscut-saw.\n Cross-grained wood, Planing.\n Crowbar.\n Crown of Plane-cutter.\n Cruising.\n Cup.\n Curling-iron.\n Cutter, Plane.\n Cutting-gage.\n Cutting tools.\n Dado.\n See also Joint, Dado.\n Dado-plane.\n Dam, Splash.\n Decay.\n Decking logs.\n Demonstration seats.\n Derrick, Locomotive boom.\n Destructive lumbering, causes of.\n Die.\n Die-holder.\n Dividers.\n Dogs, log.\n Donkey engine.\n Door.\n Dovetail-saw.\n Doweling.\n Dowel-plate.\n Dowel-pointer.\n Dowel-rods.\n Draw-bolt.\n Draw-knife.\n Drawer,  \\-192.\n Guide.\n Rail.\n Runner.\n Drawing-board.\n Dray-road.\n Drier.\n Drill. See Hand Drill.\n Twist.\n Drive, The log,  \\-18.\n Duplicate parts.\n Duster, Bench.\n Dynamite.\n Edge action.\n Edged Tools,   ff.\n Edger.\n Eight-square scale.\n Egg-shell finish.\n Equipment, Chap. VI,  \\-150.\n Escutcheon of lock. \n Expansive-bit.\n Falling beds.\n Fastenings, Chap. V,  \\-135.\n Felling trees.\n Ferrule.\n File.\n File-card.\n Filing a saw.\n Filletster.\n Filler.\n Finishing, Wood, Chap. X,  \\-223.\n Firmer-chisel,\n See under Chisel.\n Firmer-gouge,\n See under Gouge.\n Fish glue.\n Fitter.\n Flooring.\n Flume.\n Foerstner Auger-bit.\n Foot-stool.\n Fore-edge.\n Fore-plane,\n See under Plane.\n Framed structures,  \\-201.\n Framing-chisel,\n See under Chisel.\n Frog, Plane.\n Fuming with ammonia.\n Furring.\n Gages,  \\-116.\n Chisel.\n Cutting.\n Marking.\n Mortise.\n Pencil.\n Screw.\n Slitting.\n Twist-drill.\n Wire.\n Gelatin.\n Gimlet-bit.\n Glass-cutter.\n Glaziers points.\n Glue,  \\-131.\n Fish.\n Liquid.\n Preparation of.\n Tests of.\n Glue-pot.\n Gluing, Directions for.\n Golden Oak.\n Gouge.\n Grading of lumber.\n Grain of wood.\n Green.\n Grinder or Hog.\n Grinder, Empire Tool.\n Grinding of tools. See sharpening.\n Grindstone.\n Groove for drawer.\n Groove for panel.\n Groove, Triangular.\n Hack-saw.\n Hammer.\n Ball-peen.\n Bell-faced.\n Riveting.\n Hand-drill.\n Handscrew.\n Handscrew, Iron.\n See also Clamp, carriage-makers.\n Hatchet.\n Hauling logs.\n Hinges,  \\-133.\n Hinges,sizes of.\n Hinging, Directions for.\n Hog.\n Holding tools,  \\-105.\n Honeycombing.\n Horse.\n Horsehair.\n House construction.\n Ice-road.\n Impregnation of timber.\n Iron acetate.\n Iron, Soldering. See copper.\n Jack-ladder.\n Jack-plane. See Plane.\n Jam, log.\n Japan.\n Japanese.\n Joinery.\n Joint, Beaded.\n Bevel-shoulder.\n Bird's mouth.\n Boat-builders.\n Brace.\n Brace, Housed.\n Bridle.\n Butt.\n Butt, Doweled.\n Caulked.\n Checked.\n Cogged. \n Corked.\n Column.\n Cross-lap.\n Dado.\n Dado and rabbet.\n Dado, Dovetail.\n Dado, housed.\n Dado, tongue, and rabbet.\n Dovetail, Blind miter.\n     Half-blind.\n     Lap.\n     Secret.\n     Stopped lap.\n     Thru multiple.\n     Thru single.\n     Doweled.\n Draw-bolt.\n Edge-to-edge,   ()-174.\n End-lap.\n Fillistered.\n Fished.\n Forked tenon.\n Gain.\n     Dovetail.\n Glue.\n Glued-and-blocked.\n Grooved.\n Halved Tee.\n Halving, Dovetail.\n Halving, Beveled.\n Halving,  \\-157.\n     See also Joint, Cross-lap, End-lap, Middle lap.\n Haunching, Table.\n     Taper.\n Hopper.\n Lap-dovetail.\n Lapped and strapped.\n Ledge.\n Ledge and miter.\n Matched.\n Middle-lap.\n Miter.\n     Double dovetail keyed.\n     Double tongue.\n     Doweled.\n     Lipped.\n     Slip dovetail.\n     Slip-feather.\n     Slip-key.\n     Spline.\n     Stopped.\n     Tongue.\n Mortise-and-tenon.\n     Bare-faced.\n     Blind.\n     Double.\n     Dovetail.\n     End.\n     Foxtail.\n     Haunched.\n     Housed.\n     Keyed.\n     Oblique.\n     Open.\n     Pinned.\n     Shoulder.\n     Stub.\n     Thru.\n     Tusk.\n     Wedged.\n Notched.\n Notch, Double.\n Rabbet.\n Rebated, See Joint, Rabbet.\n Rubbed.\n Scarf.\n Slip.\n Spliced.\n Spline.\n Squeezed.\n Stretcher.\n Strut.\n Thrust.\n Tie.\n Toe.\n Toe-nailed.\n Tongue-and-groove.\n Jointer-plane.\n Jointing a saw.\n Joints, Chap. VII,  \\-182.\n Beveled,  \\-172.\n Butt,  \\-155.\n Dovetail.\n Halving.\n Heading,  \\-152.\n Mortise-and-tenon.\n Joists.\n Kerf.\n Key-pin of lock.\n Kiln, lumber.\n Knife.\n Knife, Sloyd.\n Knob, Plane.\n Knock-down furniture.\n Knuckle of hinge.\n Lac, insect.\n Seed.\n Shell.\n Stick.\n Lacquer.\n Ladle.\n Landlooking.\n Lath-machines.\n Laths.\n Lay-out.\n Leather.\n Leaves of hinge.\n Level, Spirit.\n Lever-cap.\n Lid of box.\n Lighting of shop.\n Live rollers.\n Loading logs.\n Lock, mortise.\n Rim.\n Lockers.\n Locks.\n Locomotive, Geared.\n Snow.\n Boom-derrick.\n Log-boom.\n Log-carriage.\n Log-flipper.\n Logging, Chap. I,  \\-29.\n Log-kicker.\n Log-slip.\n Log-stop.\n Logwood.\n Loss of tools,  \\-146.\n Lumber.\n Lumber yard.\n Lumberman's board rule.\n Lumber mill.\n M (1000 feet).\n Machine-screws.\n Mahogany.\n Mallet.\n Marking-gage.\n Marking tools,  \\-117.\n Matching-plane.\n Maul.\n Measurements.\n Measuring-tools,  \\-117.\n Measuring wood,  \\-116.\n Mill-pond.\n Miter-box.\n Miter-clamp.\n Miter-square.\n Molding-plane.\n Monkey-wrench.\n Mortise.\n Mortise-and-tenon.\n See Joint, Mortise-and-tenon.\n Mortise-chisel.\n Mortise-gage.\n Multiple parts.\n Muntin.\n Muslin.\n Nails.\n Flat-head.\n Size of.\n Wire.\n Wrought.\n Nailset.\n Nigger, steam.\n Nippers.\n Octagonal scale.\n Oil.\n Banana.\n Boiled.\n Oiler.\n Oilstone.\n Ordering of lumber.\n Paint,  \\-221.\n Panel construction.\n Panel-iron.\n Paper, Building.\n Paring.\n Paring-chisel.\n Peavey.\n Peen of hammer.\n Picture-frame. \n Clamp.\n Vise.\n Pigments.\n Pillow.\n Pincers.\n Pinch-dog.\n Pintle of hinge.\n Plane, parts of.\n Bed rock.\n Block.\n Circular.\n Fore.\n Jack.\n Jointer.\n Matching.\n Molding.\n Oriental.\n Rabbet.\n Router.\n Scraper.\n Scratch.\n Scrub.\n Smooth.\n Tongue-and-groove.\n Universal.\n Plane-iron.\n Planes,  \\-82.\n Planing, Directions for.\n Order of.\n Plate-rack.\n Plates, metal.\n Plate, wall.\n Pliers.\n Plow, Snow.\n Plug-cutter.\n Points in saw-teeth.\n Polish, French,  \\-218.\n Oil.\n Varnish.\n Wax.\n Polishes,  \\-220.\n Position of benches.\n Posts, corner.\n Potash.\n Potassium bichromate.\n Pounding tools,  \\-97.\n Preservation of lumber.\n See also seasoning.\n Principles of joinery, Chap. IX,  \\-208.\n Pumice stone.\n Quarter-sawing.\n Rabbet-plane.\n Raft, Giant.\n Rafter-table.\n Rafters.\n Rail.\n Rail, Drawer.\n Railways, logging.\n Rasp.\n Ratchet-brace.\n Reamer.\n Rebate. See Rabbet.\n Red, Venetian.\n Ribbon, Wall.\n Ridge-pole.\n Rift-sawing.\n Rip-saw.\n Rivet-set.\n Road, Ice.\n Logging.\n Monkeys.\n Tote.\n Rollers, Dead.\n Rollers, Live.\n Roll-ways.\n Rossing of bark.\n Router-plane.\n Rule.\n Running foot.\n Rust.\n On tools.\n Sacking the rear.\n Saddle seat.\n Sandpaper.\n Saw,  \\-68.\n Selvage of lock.\n Saw, Back.\n Band.\n Butting.\n Circular.\n Compass.\n Compression.\n Coping.\n Crosscut.\n Cut-off.\n Dovetail.\n Gang.\n Hack.\n Logging.\n Pulling.\n Pushing.\n Rip.\n Tension.\n Turning.\n Saw-carriage.\n Sawdust.\n Saw-filing and setting.\n Saw-horse.\n Sawing, Directions for.\n Saw-jointer.\n Sawmill.\n Sawmilling, Chap. II,  \\-44.\n Saw-set. \n Saw-vise.\n Sawing into lengths.\n Scaling logs.\n Scrap-box.\n Scraper.\n Scraper, Veneer.\n Scraper-plane.\n Scraper steel.\n Scraping tools,  \\-94.\n Scrap pile.\n Scratch-awl.\n Scratch-plane.\n Screen-hinge.\n Screw-box.\n Screwdriver.\n Bit.\n Screw-gage.\n Screws,  \\-127.\n Rule for using.\n Sizes of.\n Scribing.\n Scrub-plane.\n Seasoning, Chap. III,  \\-48.\n Air.\n Hot-air.\n Kiln.\n Oil.\n Water.\n Set of saw.\n Shank.\n Sharpening of tools, The,  \\-121.\n Sharpening-tools,  \\-121.\n Sheathing.\n Shellac,  \\-218.\n Orange.\n White.\n Shelves.\n Shingles.\n Shingle-machine.\n Shoe-pegs.\n Shoulder of joint.\n Shrinkage.\n Siding.\n Sienna.\n Sighting.\n Silex.\n Sill.\n Sizing.\n Skidder, steam.\n Skidway.\n Slab.\n Slab-slasher.\n Slash-grain.\n Slash-sawing.\n Sleigh haul.\n Sliding cut.\n Sliding T bevel.\n Slipstone.\n Slip-tongue carts.\n Smooth-plane.\n Snips.\n Snow-locomotive.\n Soap, as a lubricant.\n To prevent gluing.\n Sole of Plane.\n Sorting-jack.\n Sorting-shed.\n Spiriting off.\n Splash-dam.\n Splitting tools.\n Spokeshave.\n Stains,  \\-213.\n Chemical,  \\-213.\n Oil.\n Spirit.\n Water.\n Steel square.\n Steel wool.\n Sticking.\n Stile.\n Storing of lumber.\n Stove, Gas.\n Stove-bolts.\n Straight cut.\n Strength of joints.\n Strike of lock.\n Stringer.\n Stropping.\n Studding.\n Superposition, Method of.\n Survey of forest land.\n Swamper.\n Sweep of brace.\n Table-hinge.\n Table construction.\n See also Table Top.\n Table top.\n Taboret.\n Tacks.\n Tacks, double-pointed.\n Tang.\n Tank.\n Taper of cutting tools.\n Tee-hinge.\n Teeth of saw.\n Tenon.\n See also Mortise and tenon.  \n  Joint, Mortise and tenon.\n Tenon-saw.\n Toe of Plane.\n Throat of Plane. \n Tie-beams.\n Timber.\n Tonguing-and-grooving-plane.\n Tool-grinder.\n Tool-holder for grinding,  \\-120.\n Tool-rack.\n Tools, Chap. IV, pp.  \\-122.\n Tools, logging.\n Traction engine.\n Tools, Loss of,  \\-146.\n Tractor.\n Trammel-points.\n Transfer, Lumber.\n Transportation of logs.\n Travoy.\n Tray.\n Triangle, Blackboard.\n Trimmer.\n Trimming logs.\n Tripoli.\n Trolley for logs.\n Try-square.\n Tumbler of lock.\n Turning-saw.\n Turpentine.\n Tusk.\n See Joint, mortise-and-tenon, tusk.\n Twist-bit.\n Twist-drill.\n Twist-drill-gage.\n Umber.\n Undercut.\n Universal plane.\n Unjoined pieces.\n Upholstering,  \\-201.\n Valuation survey.\n Van, Logging camp.\n Varnish,  \\-220.\n Copal,  \\-220.\n Cremona.\n Spirit,  \\-218.\n Varnishing, Process of.\n Vaseline.\n Veining tools.\n Veneer-scraper.\n Vermilion.\n Vise.\n Iron.\n Walnut.\n Waney boards.\n Warping.\n Washer-cutter.\n Waste,cotton.\n Waste, sawmill.\n Waterproof glue.\n Water-stains.\n Water-table.\n Wax.\n Webbing.\n Wedge, Plane.\n Wedge.\n Action.\n Whetting tools.\n Wind in board.\n Winding sticks.\n Window-sash.\n Wire edge.\n Wire-gage.\n Wooden structures, types of, Chap. VIII,  \\-202.\n Working edge.\n Working face.\n Wrench.\n See also Monkey-wrench.\n Yarding logs.\n Yard-stick.\n Yellow, Chrome.</code></pre>"
+    "innerHtml": "<pre><code> Acorn of hinge.\n Adjustment of plane.\n Adze.\n Agacite grinder.\n Alcohol:\n Grain (Ethyl).\n Wood (Methyl).\n Alligator.\n Ammonia.\n Angle of bevel.\n Aniline stains:\n Alcohol.\n Oil.\n Water.\n Antique oak.\n Anvil.\n Arrangement of shop, -144.\n Arris.\n Asphaltum.\n Auger-bit.\n Auger-bit-gage.\n Ax.\n Back-saw.\n Balloon frame.\n Banana oil.\n Band-saw.\n Banking grounds.\n Beam-compass.\n Beams.\n Bench.\n Glue and Stain.\n Bench-hook.\n Bending wood.\n Benzine.\n Bevel of cutting tools.\n Bevel, Sliding T.\n Bezel, See Bevel.\n Bill-hook.\n Binding of saw.\n Bit, Plane.\n Bits.\n Bit, Twist.\n Bit-point drill.\n Bit-stock, See Brace.\n Black.\n Blank-hinge.\n Blazes on trees.\n Blinds.\n Block, Corner.\n Block-plane, See Plane, Block.\n Blue, Prussian.\n Board.\n Board construction, -192.\n Board-dipper.\n Board foot.\n Board measure.\n Board structures, -192.\n Bolt of lock.\n Bolts.\n Book shelves.\n Boom, Log.\n Boring, Directions for.\n Boring tools, -87.\n Box, -191.\n Bottoms.\n Lids.\n Of lock.\n Brace.\n Brace, Ratchet.\n Brace-measure.\n Bracket.\n Brad-awl.\n Brads.\n Breaking out the roll-ways.\n Bridging.\n Brown, Bismarck.\n Dark.\n Reddish.\n Vandyke.\n Brush.\n Brush, See also Duster.\n Brush-Keeper.\n Buckling of saw.\n Buffer.\n Burn of shellac.\n Butt-hinge.\n Cabinet construction, -195.\n Cabinet for nails and screws.\n Calipers.\n Camp, logging.\n Cant,  , foot-note.\n Cant-flipper.\n Cant-hook.\n Cape-chisel.\n Care of the shop, -150.\n Carriage-bolts. \n _Carteria lacca_.\n Carving tools.\n Case-hardening.\n C-Clamps.\n See carriage-makers' clamps.\n Ceiling.\n Center-bit.\n Chain.\n Chair, -201.\n Chalk, French.\n Chamfer.\n Chatter.\n Cheek of joint.\n Cheese-cloth.\n Chest.\n Chest-hinge.\n Chisel.\n See also Chiseling end-wood,  \n  Paring, Sidewise chiseling.\n Chisel, Cape.\n Carving.\n Cold.\n Corner.\n Firmer.\n Framing.\n Mortise.\n Paring.\n Round-nosed.\n Skew.\n Turning.\n Chisel-gage.\n Chiseling, end-wood.\n Sidewise.\n Perpendicular.\n Choking of Plane.\n Chopping tools.\n Clamp.\n Carriage-makers.\n Column.\n Plane.\n Clapboards.\n Claw hammer.\n Cleaning tools.\n Cleats.\n Comb-grain.\n Compass.\n Blackboard.\n Compass-saw.\n Consumer.\n Copal.\n Coping-saw.\n Copper, Soldering.\n Corner-blocks.\n Corner-board.\n Cornering tool.\n Corner-iron.\n Corner locking.\n Corrugated fasteners.\n Cost of Equipment, -142.\n Countersink.\n Cricket.\n Crosscut-saw.\n Cross-grained wood, Planing.\n Crowbar.\n Crown of Plane-cutter.\n Cruising.\n Cup.\n Curling-iron.\n Cutter, Plane.\n Cutting-gage.\n Cutting tools.\n Dado.\n See also Joint, Dado.\n Dado-plane.\n Dam, Splash.\n Decay.\n Decking logs.\n Demonstration seats.\n Derrick, Locomotive boom.\n Destructive lumbering, causes of.\n Die.\n Die-holder.\n Dividers.\n Dogs, log.\n Donkey engine.\n Door.\n Dovetail-saw.\n Doweling.\n Dowel-plate.\n Dowel-pointer.\n Dowel-rods.\n Draw-bolt.\n Draw-knife.\n Drawer, -192.\n Guide.\n Rail.\n Runner.\n Drawing-board.\n Dray-road.\n Drier.\n Drill. See Hand Drill.\n Twist.\n Drive, The log, -18.\n Duplicate parts.\n Duster, Bench.\n Dynamite.\n Edge action.\n Edged Tools,   ff.\n Edger.\n Eight-square scale.\n Egg-shell finish.\n Equipment, Chap. VI, -150.\n Escutcheon of lock. \n Expansive-bit.\n Falling beds.\n Fastenings, Chap. V, -135.\n Felling trees.\n Ferrule.\n File.\n File-card.\n Filing a saw.\n Filletster.\n Filler.\n Finishing, Wood, Chap. X, -223.\n Firmer-chisel,\n See under Chisel.\n Firmer-gouge,\n See under Gouge.\n Fish glue.\n Fitter.\n Flooring.\n Flume.\n Foerstner Auger-bit.\n Foot-stool.\n Fore-edge.\n Fore-plane,\n See under Plane.\n Framed structures, -201.\n Framing-chisel,\n See under Chisel.\n Frog, Plane.\n Fuming with ammonia.\n Furring.\n Gages, -116.\n Chisel.\n Cutting.\n Marking.\n Mortise.\n Pencil.\n Screw.\n Slitting.\n Twist-drill.\n Wire.\n Gelatin.\n Gimlet-bit.\n Glass-cutter.\n Glaziers points.\n Glue, -131.\n Fish.\n Liquid.\n Preparation of.\n Tests of.\n Glue-pot.\n Gluing, Directions for.\n Golden Oak.\n Gouge.\n Grading of lumber.\n Grain of wood.\n Green.\n Grinder or Hog.\n Grinder, Empire Tool.\n Grinding of tools. See sharpening.\n Grindstone.\n Groove for drawer.\n Groove for panel.\n Groove, Triangular.\n Hack-saw.\n Hammer.\n Ball-peen.\n Bell-faced.\n Riveting.\n Hand-drill.\n Handscrew.\n Handscrew, Iron.\n See also Clamp, carriage-makers.\n Hatchet.\n Hauling logs.\n Hinges, -133.\n Hinges,sizes of.\n Hinging, Directions for.\n Hog.\n Holding tools, -105.\n Honeycombing.\n Horse.\n Horsehair.\n House construction.\n Ice-road.\n Impregnation of timber.\n Iron acetate.\n Iron, Soldering. See copper.\n Jack-ladder.\n Jack-plane. See Plane.\n Jam, log.\n Japan.\n Japanese.\n Joinery.\n Joint, Beaded.\n Bevel-shoulder.\n Bird's mouth.\n Boat-builders.\n Brace.\n Brace, Housed.\n Bridle.\n Butt.\n Butt, Doweled.\n Caulked.\n Checked.\n Cogged. \n Corked.\n Column.\n Cross-lap.\n Dado.\n Dado and rabbet.\n Dado, Dovetail.\n Dado, housed.\n Dado, tongue, and rabbet.\n Dovetail, Blind miter.\n     Half-blind.\n     Lap.\n     Secret.\n     Stopped lap.\n     Thru multiple.\n     Thru single.\n     Doweled.\n Draw-bolt.\n Edge-to-edge,  \n End-lap.\n Fillistered.\n Fished.\n Forked tenon.\n Gain.\n     Dovetail.\n Glue.\n Glued-and-blocked.\n Grooved.\n Halved Tee.\n Halving, Dovetail.\n Halving, Beveled.\n Halving, -157.\n     See also Joint, Cross-lap, End-lap, Middle lap.\n Haunching, Table.\n     Taper.\n Hopper.\n Lap-dovetail.\n Lapped and strapped.\n Ledge.\n Ledge and miter.\n Matched.\n Middle-lap.\n Miter.\n     Double dovetail keyed.\n     Double tongue.\n     Doweled.\n     Lipped.\n     Slip dovetail.\n     Slip-feather.\n     Slip-key.\n     Spline.\n     Stopped.\n     Tongue.\n Mortise-and-tenon.\n     Bare-faced.\n     Blind.\n     Double.\n     Dovetail.\n     End.\n     Foxtail.\n     Haunched.\n     Housed.\n     Keyed.\n     Oblique.\n     Open.\n     Pinned.\n     Shoulder.\n     Stub.\n     Thru.\n     Tusk.\n     Wedged.\n Notched.\n Notch, Double.\n Rabbet.\n Rebated, See Joint, Rabbet.\n Rubbed.\n Scarf.\n Slip.\n Spliced.\n Spline.\n Squeezed.\n Stretcher.\n Strut.\n Thrust.\n Tie.\n Toe.\n Toe-nailed.\n Tongue-and-groove.\n Jointer-plane.\n Jointing a saw.\n Joints, Chap. VII, -182.\n Beveled, -172.\n Butt, -155.\n Dovetail.\n Halving.\n Heading, -152.\n Mortise-and-tenon.\n Joists.\n Kerf.\n Key-pin of lock.\n Kiln, lumber.\n Knife.\n Knife, Sloyd.\n Knob, Plane.\n Knock-down furniture.\n Knuckle of hinge.\n Lac, insect.\n Seed.\n Shell.\n Stick.\n Lacquer.\n Ladle.\n Landlooking.\n Lath-machines.\n Laths.\n Lay-out.\n Leather.\n Leaves of hinge.\n Level, Spirit.\n Lever-cap.\n Lid of box.\n Lighting of shop.\n Live rollers.\n Loading logs.\n Lock, mortise.\n Rim.\n Lockers.\n Locks.\n Locomotive, Geared.\n Snow.\n Boom-derrick.\n Log-boom.\n Log-carriage.\n Log-flipper.\n Logging, Chap. I, -29.\n Log-kicker.\n Log-slip.\n Log-stop.\n Logwood.\n Loss of tools, -146.\n Lumber.\n Lumber yard.\n Lumberman's board rule.\n Lumber mill.\n M (1000 feet).\n Machine-screws.\n Mahogany.\n Mallet.\n Marking-gage.\n Marking tools, -117.\n Matching-plane.\n Maul.\n Measurements.\n Measuring-tools, -117.\n Measuring wood, -116.\n Mill-pond.\n Miter-box.\n Miter-clamp.\n Miter-square.\n Molding-plane.\n Monkey-wrench.\n Mortise.\n Mortise-and-tenon.\n See Joint, Mortise-and-tenon.\n Mortise-chisel.\n Mortise-gage.\n Multiple parts.\n Muntin.\n Muslin.\n Nails.\n Flat-head.\n Size of.\n Wire.\n Wrought.\n Nailset.\n Nigger, steam.\n Nippers.\n Octagonal scale.\n Oil.\n Banana.\n Boiled.\n Oiler.\n Oilstone.\n Ordering of lumber.\n Paint, -221.\n Panel construction.\n Panel-iron.\n Paper, Building.\n Paring.\n Paring-chisel.\n Peavey.\n Peen of hammer.\n Picture-frame. \n Clamp.\n Vise.\n Pigments.\n Pillow.\n Pincers.\n Pinch-dog.\n Pintle of hinge.\n Plane, parts of.\n Bed rock.\n Block.\n Circular.\n Fore.\n Jack.\n Jointer.\n Matching.\n Molding.\n Oriental.\n Rabbet.\n Router.\n Scraper.\n Scratch.\n Scrub.\n Smooth.\n Tongue-and-groove.\n Universal.\n Plane-iron.\n Planes, -82.\n Planing, Directions for.\n Order of.\n Plate-rack.\n Plates, metal.\n Plate, wall.\n Pliers.\n Plow, Snow.\n Plug-cutter.\n Points in saw-teeth.\n Polish, French, -218.\n Oil.\n Varnish.\n Wax.\n Polishes, -220.\n Position of benches.\n Posts, corner.\n Potash.\n Potassium bichromate.\n Pounding tools, -97.\n Preservation of lumber.\n See also seasoning.\n Principles of joinery, Chap. IX, -208.\n Pumice stone.\n Quarter-sawing.\n Rabbet-plane.\n Raft, Giant.\n Rafter-table.\n Rafters.\n Rail.\n Rail, Drawer.\n Railways, logging.\n Rasp.\n Ratchet-brace.\n Reamer.\n Rebate. See Rabbet.\n Red, Venetian.\n Ribbon, Wall.\n Ridge-pole.\n Rift-sawing.\n Rip-saw.\n Rivet-set.\n Road, Ice.\n Logging.\n Monkeys.\n Tote.\n Rollers, Dead.\n Rollers, Live.\n Roll-ways.\n Rossing of bark.\n Router-plane.\n Rule.\n Running foot.\n Rust.\n On tools.\n Sacking the rear.\n Saddle seat.\n Sandpaper.\n Saw, -68.\n Selvage of lock.\n Saw, Back.\n Band.\n Butting.\n Circular.\n Compass.\n Compression.\n Coping.\n Crosscut.\n Cut-off.\n Dovetail.\n Gang.\n Hack.\n Logging.\n Pulling.\n Pushing.\n Rip.\n Tension.\n Turning.\n Saw-carriage.\n Sawdust.\n Saw-filing and setting.\n Saw-horse.\n Sawing, Directions for.\n Saw-jointer.\n Sawmill.\n Sawmilling, Chap. II, -44.\n Saw-set. \n Saw-vise.\n Sawing into lengths.\n Scaling logs.\n Scrap-box.\n Scraper.\n Scraper, Veneer.\n Scraper-plane.\n Scraper steel.\n Scraping tools, -94.\n Scrap pile.\n Scratch-awl.\n Scratch-plane.\n Screen-hinge.\n Screw-box.\n Screwdriver.\n Bit.\n Screw-gage.\n Screws, -127.\n Rule for using.\n Sizes of.\n Scribing.\n Scrub-plane.\n Seasoning, Chap. III, -48.\n Air.\n Hot-air.\n Kiln.\n Oil.\n Water.\n Set of saw.\n Shank.\n Sharpening of tools, The, -121.\n Sharpening-tools, -121.\n Sheathing.\n Shellac, -218.\n Orange.\n White.\n Shelves.\n Shingles.\n Shingle-machine.\n Shoe-pegs.\n Shoulder of joint.\n Shrinkage.\n Siding.\n Sienna.\n Sighting.\n Silex.\n Sill.\n Sizing.\n Skidder, steam.\n Skidway.\n Slab.\n Slab-slasher.\n Slash-grain.\n Slash-sawing.\n Sleigh haul.\n Sliding cut.\n Sliding T bevel.\n Slipstone.\n Slip-tongue carts.\n Smooth-plane.\n Snips.\n Snow-locomotive.\n Soap, as a lubricant.\n To prevent gluing.\n Sole of Plane.\n Sorting-jack.\n Sorting-shed.\n Spiriting off.\n Splash-dam.\n Splitting tools.\n Spokeshave.\n Stains, -213.\n Chemical, -213.\n Oil.\n Spirit.\n Water.\n Steel square.\n Steel wool.\n Sticking.\n Stile.\n Storing of lumber.\n Stove, Gas.\n Stove-bolts.\n Straight cut.\n Strength of joints.\n Strike of lock.\n Stringer.\n Stropping.\n Studding.\n Superposition, Method of.\n Survey of forest land.\n Swamper.\n Sweep of brace.\n Table-hinge.\n Table construction.\n See also Table Top.\n Table top.\n Taboret.\n Tacks.\n Tacks, double-pointed.\n Tang.\n Tank.\n Taper of cutting tools.\n Tee-hinge.\n Teeth of saw.\n Tenon.\n See also Mortise and tenon.  \n  Joint, Mortise and tenon.\n Tenon-saw.\n Toe of Plane.\n Throat of Plane. \n Tie-beams.\n Timber.\n Tonguing-and-grooving-plane.\n Tool-grinder.\n Tool-holder for grinding, -120.\n Tool-rack.\n Tools, Chap. IV, pp. -122.\n Tools, logging.\n Traction engine.\n Tools, Loss of, -146.\n Tractor.\n Trammel-points.\n Transfer, Lumber.\n Transportation of logs.\n Travoy.\n Tray.\n Triangle, Blackboard.\n Trimmer.\n Trimming logs.\n Tripoli.\n Trolley for logs.\n Try-square.\n Tumbler of lock.\n Turning-saw.\n Turpentine.\n Tusk.\n See Joint, mortise-and-tenon, tusk.\n Twist-bit.\n Twist-drill.\n Twist-drill-gage.\n Umber.\n Undercut.\n Universal plane.\n Unjoined pieces.\n Upholstering, -201.\n Valuation survey.\n Van, Logging camp.\n Varnish, -220.\n Copal, -220.\n Cremona.\n Spirit, -218.\n Varnishing, Process of.\n Vaseline.\n Veining tools.\n Veneer-scraper.\n Vermilion.\n Vise.\n Iron.\n Walnut.\n Waney boards.\n Warping.\n Washer-cutter.\n Waste,cotton.\n Waste, sawmill.\n Waterproof glue.\n Water-stains.\n Water-table.\n Wax.\n Webbing.\n Wedge, Plane.\n Wedge.\n Action.\n Whetting tools.\n Wind in board.\n Winding sticks.\n Window-sash.\n Wire edge.\n Wire-gage.\n Wooden structures, types of, Chap. VIII, -202.\n Working edge.\n Working face.\n Wrench.\n See also Monkey-wrench.\n Yarding logs.\n Yard-stick.\n Yellow, Chrome.</code></pre>"
   },
   {
     "tag": "hr",

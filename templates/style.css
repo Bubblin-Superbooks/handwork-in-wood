@@ -44,6 +44,8 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
   display:block;
+  margin: calc(1/2 * 4vw * 1.50) auto;
+
 }
 
 a {
@@ -282,7 +284,7 @@ p.stretch-para {
 
 .center {
   text-align: center;
-  margin: 0 auto;
+  margin: inherit auto;
 }
 
 .small {
